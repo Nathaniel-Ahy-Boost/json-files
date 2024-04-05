@@ -1,0 +1,48 @@
+{
+  "metadata": {
+    "query_time": "0s",
+    "easter_egg": "Wow, look at you logging the data, you're pretty smart, aren't yah?"
+  },
+  "invoices": [
+    {
+      "invoice_number": "INV2023001",
+      "invoice_amount": 100.50,
+      "bank_giro_number": "BG2023-001",
+      "invoice_status": "Paid",
+      "payment_type": "Direct Debit",
+      "invoice_due_date": "2023-04-15",
+      "invoice_type": "Broadband",
+      "ocr_number": "OCR202300112345"
+    },
+    {
+      "invoice_number": "INV2024001",
+      "invoice_amount": 250.75,
+      "bank_giro_number": "BG2024-001",
+      "invoice_status": "Paid",
+      "payment_type": "Direct Debit",
+      "invoice_due_date": "2024-06-20",
+      "invoice_type": "TV",
+      "ocr_number": "OCR202400198765"
+    },
+    {
+      "invoice_number": "INV2025001",
+      "invoice_amount": 180.00,
+      "bank_giro_number": "BG2025-001",
+      "invoice_status": "Open",
+      "payment_type": "Direct Debit",
+      "invoice_due_date": "2025-10-10",
+      "invoice_type": "Broadband",
+      "ocr_number": "OCR202500154321"
+    },
+    {
+      "invoice_number": "INV2026001",
+      "invoice_amount": 300.25,
+      "bank_giro_number": "BG2026-001",
+      "invoice_status": "Open",
+      "payment_type": "Direct Debit",
+      "invoice_due_date": "2026-03-25",
+      "invoice_type": "TV",
+      "ocr_number": "OCR202600167890"
+    }
+  ]
+}
