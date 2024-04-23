@@ -1,0 +1,20 @@
+{
+    "status": "success",
+    "trackingLink": "https://example.com/track/123456789",
+    "parcelDescription": "2 items (1x Smartphone, 1x Charger)",
+    "items": [
+        {
+            "itemName": "Smartphone",
+            "quantity": 1,
+            "weight": "0.5kg"
+        },
+        {
+            "itemName": "Charger",
+            "quantity": 1,
+            "weight": "0.2kg"
+        }
+    ],
+    "eta": "2026-04-30T15:00:00Z",
+    "scheduledArrival": "2026-04-30T12:00:00Z",
+    "arrivalStatus": "late"
+}

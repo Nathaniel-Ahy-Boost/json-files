@@ -1,0 +1,3706 @@
+{
+    "elements": [
+        {
+            "name": "Bollnäs",
+            "type": "StoreLocation",
+            "address2": "Långgatan 22",
+            "postalCode": "821 43",
+            "city": "Bollnäs",
+            "country": "Sverige",
+            "countryCode": "SE",
+            "phoneBusiness": "031-12 34 56",
+            "uuid": "IVusHnMrU8MAAAFYgM8Szx1m",
+            "latitude": "61.348451",
+            "longitude": "16.395721",
+            "address": "Långgatan 22",
+            "coordinates": {
+                "latitude": 61.348451,
+                "longitude": 16.395721
+            },
+            "openingHours": {
+                "Thu": "10:00 - 18:00",
+                "Tue": "10:00 - 18:00",
+                "Wed": "10:00 - 18:00",
+                "Sat": "10:00 - 15:00",
+                "Fri": "10:00 - 18:00",
+                "Mon": "10:00 - 18:00",
+                "Sun": " - "
+            },
+            "todayOpeningHours": {
+                "Idag": "10:00 - 18:00"
+            },
+            "specialOpeningHours": [
+                {
+                    "name": "Söndag",
+                    "date": "26 nov",
+                    "hours": "12:00 - 16:00"
+                },
+                {
+                    "name": "Söndag",
+                    "date": "3 dec",
+                    "hours": "12:00 - 16:00"
+                },
+                {
+                    "name": "Söndag",
+                    "date": "10 dec",
+                    "hours": "12:00 - 16:00"
+                },
+                {
+                    "name": "Söndag",
+                    "date": "17 dec",
+                    "hours": "12:00 - 16:00"
+                },
+                {
+                    "name": "Onsdag",
+                    "date": "20 dec",
+                    "hours": "10:00 - 19:00"
+                },
+                {
+                    "name": "Torsdag",
+                    "date": "21 dec",
+                    "hours": "10:00 - 19:00"
+                },
+                {
+                    "name": "Lördag",
+                    "date": "23 dec",
+                    "hours": "10:00 - 17:00"
+                },
+                {
+                    "name": "Julafton",
+                    "date": "24 dec",
+                    "hours": "10:00 - 14:00"
+                },
+                {
+                    "name": "Juldagen ",
+                    "date": "25 dec",
+                    "hours": "Stängt"
+                },
+                {
+                    "name": "Annandagen",
+                    "date": "26 dec",
+                    "hours": "10:00 - 16:00"
+                },
+                {
+                    "name": "Nyårsafton",
+                    "date": "31 dec",
+                    "hours": "10:00 - 14:00"
+                },
+                {
+                    "name": "Nyarsdagen",
+                    "date": "1 jan",
+                    "hours": "Stängt"
+                }
+            ],
+            "id": "462",
+            "pickupInformation": "",
+            "friendlyName": "bollnas",
+            "friendlyUrl": "https://www.store.se/varuhus/bollnas"
+        },
+        {
+            "name": "Eskilstuna",
+            "type": "StoreLocation",
+            "address2": "Kungsg. 29",
+            "postalCode": "632 18",
+            "city": "Eskilstuna",
+            "country": "Sverige",
+            "countryCode": "SE",
+            "phoneBusiness": "031-12 34 56",
+            "uuid": "fECsHnMr2m4AAAFYicwSzx1m",
+            "latitude": "59.370183",
+            "longitude": "16.516099",
+            "address": "Kungsgatan 29",
+            "coordinates": {
+                "latitude": 59.370183,
+                "longitude": 16.516099
+            },
+            "openingHours": {
+                "Thu": "10:00 - 19:00",
+                "Tue": "10:00 - 19:00",
+                "Wed": "10:00 - 19:00",
+                "Sat": "10:00 - 16:00",
+                "Fri": "10:00 - 19:00",
+                "Mon": "10:00 - 19:00",
+                "Sun": "12:00 - 16:00"
+            },
+            "todayOpeningHours": {
+                "Idag": "10:00 - 19:00"
+            },
+            "specialOpeningHours": [],
+            "id": "458",
+            "pickupInformation": "",
+            "friendlyName": "eskilstuna",
+            "friendlyUrl": "https://www.store.se/varuhus/eskilstuna"
+        },
+        {
+            "name": "Falun",
+            "type": "StoreLocation",
+            "address2": "Holmgatan 16",
+            "postalCode": "791 71",
+            "city": "Falun",
+            "country": "Sverige",
+            "countryCode": "SE",
+            "phoneBusiness": "031-12 34 56",
+            "uuid": "VImsHnMrLGoAAAFYOKwSzx1m",
+            "latitude": "60.605467",
+            "longitude": "15.634296",
+            "address": "Holmgatan 16",
+            "coordinates": {
+                "latitude": 60.605467,
+                "longitude": 15.634296
+            },
+            "openingHours": {
+                "Thu": "10:00 - 18:00",
+                "Tue": "10:00 - 18:00",
+                "Wed": "10:00 - 18:00",
+                "Sat": "10:00 - 16:00",
+                "Fri": "10:00 - 18:00",
+                "Mon": "10:00 - 18:00",
+                "Sun": "11:00 - 15:00"
+            },
+            "todayOpeningHours": {
+                "Idag": "10:00 - 18:00"
+            },
+            "specialOpeningHours": [
+                {
+                    "name": "sön",
+                    "date": "26 nov",
+                    "hours": "11:00 - 16:00"
+                },
+                {
+                    "name": "1:a Advent",
+                    "date": "3 dec",
+                    "hours": "11:00 - 18:00"
+                },
+                {
+                    "name": "2:a Advent",
+                    "date": "10 dec",
+                    "hours": "11:00 - 16:00"
+                },
+                {
+                    "name": "3:e Advent",
+                    "date": "17 dec",
+                    "hours": "11:00 - 16:00"
+                },
+                {
+                    "name": "Måndag",
+                    "date": "18 dec",
+                    "hours": "10:00 - 19:00"
+                },
+                {
+                    "name": "Tisdag",
+                    "date": "19 dec",
+                    "hours": "10:00 - 19:00"
+                },
+                {
+                    "name": "Onsdag",
+                    "date": "20 dec",
+                    "hours": "10:00 - 19:00"
+                },
+                {
+                    "name": "Torsdag",
+                    "date": "21 dec",
+                    "hours": "10:00 - 19:00"
+                },
+                {
+                    "name": "Fredag",
+                    "date": "22 dec",
+                    "hours": "10:00 - 19:00"
+                },
+                {
+                    "name": "Lördag",
+                    "date": "23 dec",
+                    "hours": "10:00 - 17:00"
+                },
+                {
+                    "name": "Julafton",
+                    "date": "24 dec",
+                    "hours": "10:00 - 14:00"
+                },
+                {
+                    "name": "Juldagen",
+                    "date": "25 dec",
+                    "hours": "Stängt"
+                },
+                {
+                    "name": "Annandag jul",
+                    "date": "26 dec",
+                    "hours": "10:00 - 16:00"
+                },
+                {
+                    "name": "Nyårsafton",
+                    "date": "31 dec",
+                    "hours": "10:00 - 14:00"
+                },
+                {
+                    "name": "Nyårsdagen",
+                    "date": "1 jan",
+                    "hours": "Stängt"
+                },
+                {
+                    "name": "Trettondagen",
+                    "date": "6 jan",
+                    "hours": "11:00 - 16:00"
+                }
+            ],
+            "id": "412",
+            "pickupInformation": "",
+            "friendlyName": "falun",
+            "friendlyUrl": "https://www.store.se/varuhus/falun"
+        },
+        {
+            "name": "Gränbystaden Uppsala",
+            "type": "StoreLocation",
+            "address2": "Marknadsgatan 1",
+            "postalCode": "754 60",
+            "city": "Uppsala",
+            "country": "Sverige",
+            "countryCode": "SE",
+            "phoneBusiness": "031-12 34 56",
+            "uuid": "jkqsHnMrlPIAAAFYpaISzxzB",
+            "latitude": "59.877007",
+            "longitude": "17.67266",
+            "address": "Gränby Centrum",
+            "coordinates": {
+                "latitude": 59.877007,
+                "longitude": 17.67266
+            },
+            "openingHours": {
+                "Thu": "10:00 - 20:00",
+                "Tue": "10:00 - 20:00",
+                "Wed": "10:00 - 20:00",
+                "Sat": "10:00 - 20:00",
+                "Fri": "10:00 - 20:00",
+                "Mon": "10:00 - 20:00",
+                "Sun": "10:00 - 20:00"
+            },
+            "todayOpeningHours": {
+                "Idag": "10:00 - 20:00"
+            },
+            "specialOpeningHours": [
+                {
+                    "name": "Julafton",
+                    "date": "24 dec",
+                    "hours": "10:00 - 14:00"
+                },
+                {
+                    "name": "Nyårsdagen",
+                    "date": "25 dec",
+                    "hours": "Stängt"
+                },
+                {
+                    "name": "Juldagen",
+                    "date": "25 dec",
+                    "hours": "Stängt"
+                },
+                {
+                    "name": "Nyårsafton",
+                    "date": "31 dec",
+                    "hours": "10:00 - 16:00"
+                }
+            ],
+            "id": "550",
+            "pickupInformation": "",
+            "friendlyName": "granbystaden-uppsala",
+            "friendlyUrl": "https://www.store.se/varuhus/granbystaden-uppsala"
+        },
+        {
+            "name": "Gävle",
+            "type": "StoreLocation",
+            "address2": "Kyrkogatan 17",
+            "postalCode": "801 35",
+            "city": "Gävle",
+            "country": "Sverige",
+            "countryCode": "SE",
+            "phoneBusiness": "031-12 34 56",
+            "uuid": "9QesHnMrzjsAAAFYhKoSzx1m",
+            "latitude": "60.674461",
+            "longitude": "17.142727",
+            "address": "Drottninggatan 16",
+            "coordinates": {
+                "latitude": 60.674461,
+                "longitude": 17.142727
+            },
+            "openingHours": {
+                "Thu": "10:00 - 19:00",
+                "Tue": "10:00 - 19:00",
+                "Wed": "10:00 - 19:00",
+                "Sat": "10:00 - 17:00",
+                "Fri": "10:00 - 19:00",
+                "Mon": "10:00 - 19:00",
+                "Sun": "12:00 - 16:00"
+            },
+            "todayOpeningHours": {
+                "Idag": "10:00 - 19:00"
+            },
+            "specialOpeningHours": [
+                {
+                    "name": "1:a Advent",
+                    "date": "3 dec",
+                    "hours": "12:00 - 18:00"
+                },
+                {
+                    "name": "Julafton",
+                    "date": "24 dec",
+                    "hours": "10:00 - 13:00"
+                },
+                {
+                    "name": "Juldagen",
+                    "date": "25 dec",
+                    "hours": "Stängt"
+                },
+                {
+                    "name": "Annandag jul",
+                    "date": "26 dec",
+                    "hours": "12:00 - 16:00"
+                },
+                {
+                    "name": "Nyårsafton",
+                    "date": "31 dec",
+                    "hours": "12:00 - 15:00"
+                },
+                {
+                    "name": "Nyårsdagen",
+                    "date": "1 jan",
+                    "hours": "Stängt"
+                }
+            ],
+            "id": "408",
+            "pickupInformation": "",
+            "friendlyName": "gavle",
+            "friendlyUrl": "https://www.store.se/varuhus/gavle"
+        },
+        {
+            "name": "Göteborg City Nordstan",
+            "type": "StoreLocation",
+            "address2": "Box 11934",
+            "postalCode": "404 39",
+            "city": "Göteborg",
+            "country": "Sverige",
+            "countryCode": "SE",
+            "phoneBusiness": "031-12 34 56",
+            "uuid": "ABWsHnMrF1gAAAFYn50Szx1m",
+            "latitude": "57.708996",
+            "longitude": "11.968489",
+            "address": "Nordstan, Östra Hamngatan 18",
+            "coordinates": {
+                "latitude": 57.708996,
+                "longitude": 11.968489
+            },
+            "openingHours": {
+                "Thu": "10:00 - 20:00",
+                "Tue": "10:00 - 20:00",
+                "Wed": "10:00 - 20:00",
+                "Sat": "10:00 - 18:00",
+                "Fri": "10:00 - 20:00",
+                "Mon": "10:00 - 20:00",
+                "Sun": "10:00 - 18:00"
+            },
+            "todayOpeningHours": {
+                "Idag": "10:00 - 20:00"
+            },
+            "specialOpeningHours": [
+                {
+                    "name": "Lördag",
+                    "date": "16 dec",
+                    "hours": "10:00 - 20:00"
+                },
+                {
+                    "name": "3:e Advent",
+                    "date": "17 dec",
+                    "hours": "10:00 - 20:00"
+                },
+                {
+                    "name": "Julafton",
+                    "date": "24 dec",
+                    "hours": "10:00 - 14:00"
+                },
+                {
+                    "name": "Juldagen",
+                    "date": "25 dec",
+                    "hours": "10:00 - 18:00"
+                },
+                {
+                    "name": "Annandag jul",
+                    "date": "26 dec",
+                    "hours": "10:00 - 18:00"
+                },
+                {
+                    "name": "Nyårsafton",
+                    "date": "31 dec",
+                    "hours": "10:00 - 16:00"
+                },
+                {
+                    "name": "Nyårsdagen",
+                    "date": "1 jan",
+                    "hours": "Stängt"
+                }
+            ],
+            "id": "340",
+            "pickupInformation": "",
+            "friendlyName": "goteborg-city-nordstan",
+            "friendlyUrl": "https://www.store.se/varuhus/goteborg-city-nordstan"
+        },
+        {
+            "name": "Göteborg Kungsgatan",
+            "type": "StoreLocation",
+            "postalCode": "411 15",
+            "city": "Göteborg",
+            "country": "Sverige",
+            "countryCode": "SE",
+            "phoneBusiness": "031-12 34 56",
+            "uuid": "siWsHnMrGwwAAAFYo6ISzxzB",
+            "latitude": "57.704262",
+            "longitude": "11.965163",
+            "address": "Kungsgatan 35",
+            "coordinates": {
+                "latitude": 57.704262,
+                "longitude": 11.965163
+            },
+            "openingHours": {
+                "Thu": "10:00 - 19:00",
+                "Tue": "10:00 - 19:00",
+                "Wed": "10:00 - 19:00",
+                "Sat": "10:00 - 18:00",
+                "Fri": "10:00 - 19:00",
+                "Mon": "10:00 - 19:00",
+                "Sun": "12:00 - 16:00"
+            },
+            "todayOpeningHours": {
+                "Idag": "10:00 - 19:00"
+            },
+            "specialOpeningHours": [
+                {
+                    "name": "1:a Advent",
+                    "date": "3 dec",
+                    "hours": "12:00 - 17:00"
+                },
+                {
+                    "name": "2:a Advent",
+                    "date": "10 dec",
+                    "hours": "12:00 - 17:00"
+                },
+                {
+                    "name": "3:e Advent",
+                    "date": "17 dec",
+                    "hours": "12:00 - 17:00"
+                },
+                {
+                    "name": "lör - sön",
+                    "date": "23 dec",
+                    "hours": "10:00 - 18:00"
+                },
+                {
+                    "name": "Julafton",
+                    "date": "24 dec",
+                    "hours": "Stängt"
+                },
+                {
+                    "name": "Juldagen",
+                    "date": "25 dec",
+                    "hours": "Stängt"
+                },
+                {
+                    "name": "Annandag jul",
+                    "date": "26 dec",
+                    "hours": "10:00 - 16:00"
+                },
+                {
+                    "name": "Nyårsafton",
+                    "date": "31 dec",
+                    "hours": "10:00 - 15:00"
+                },
+                {
+                    "name": "Nyårsdagen",
+                    "date": "1 jan",
+                    "hours": "Stängt"
+                },
+                {
+                    "name": "Trettondagsafton",
+                    "date": "5 jan",
+                    "hours": "10:00 - 18:00"
+                },
+                {
+                    "name": "Trettondagen",
+                    "date": "6 jan",
+                    "hours": "12:00 - 17:00"
+                },
+                {
+                    "name": "Långfredag",
+                    "date": "29 mar",
+                    "hours": "12:00 - 17:00"
+                },
+                {
+                    "name": "Påskafton",
+                    "date": "30 mar",
+                    "hours": "10:00 - 18:00"
+                },
+                {
+                    "name": "Påskdagen",
+                    "date": "31 mar",
+                    "hours": "12:00 - 16:00"
+                },
+                {
+                    "name": "Annandag Påsk",
+                    "date": "1 apr",
+                    "hours": "12:00 - 17:00"
+                },
+                {
+                    "name": "1:a Maj",
+                    "date": "1 maj",
+                    "hours": "12:00 - 17:00"
+                },
+                {
+                    "name": "Kristi himmelsfärdsdag",
+                    "date": "9 maj",
+                    "hours": "12:00 - 17:00"
+                },
+                {
+                    "name": "Sveriges nationaldag",
+                    "date": "6 jun",
+                    "hours": "12:00 - 17:00"
+                },
+                {
+                    "name": "Midsommarafton",
+                    "date": "21 jun",
+                    "hours": "Stängt"
+                },
+                {
+                    "name": "Midsommardagen",
+                    "date": "22 jun",
+                    "hours": "Stängt"
+                },
+                {
+                    "name": "Alla Helgons Dag",
+                    "date": "2 nov",
+                    "hours": "12:00 - 17:00"
+                },
+                {
+                    "name": "Black Friday",
+                    "date": "29 nov",
+                    "hours": "10:00 - 19:00"
+                },
+                {
+                    "name": "1:a Advent",
+                    "date": "1 dec",
+                    "hours": "10:00 - 17:00"
+                },
+                {
+                    "name": "2:a Advent",
+                    "date": "8 dec",
+                    "hours": "10:00 - 17:00"
+                },
+                {
+                    "name": "3:e Advent",
+                    "date": "15 dec",
+                    "hours": "10:00 - 17:00"
+                },
+                {
+                    "name": "Julafton",
+                    "date": "24 dec",
+                    "hours": "Stängt"
+                },
+                {
+                    "name": "Julafton",
+                    "date": "24 dec",
+                    "hours": "Stängt"
+                },
+                {
+                    "name": "Juldagen",
+                    "date": "25 dec",
+                    "hours": "Stängt"
+                },
+                {
+                    "name": "Juldagen",
+                    "date": "25 dec",
+                    "hours": "Stängt"
+                },
+                {
+                    "name": "Annandag jul",
+                    "date": "26 dec",
+                    "hours": "10:00 - 16:00"
+                },
+                {
+                    "name": "Nyårsafton",
+                    "date": "31 dec",
+                    "hours": "10:00 - 15:00"
+                },
+                {
+                    "name": "Nyårsdagen",
+                    "date": "1 jan",
+                    "hours": "Stängt"
+                },
+                {
+                    "name": "Nyårsdagen",
+                    "date": "1 jan",
+                    "hours": "Stängt"
+                }
+            ],
+            "id": "546",
+            "pickupInformation": "",
+            "friendlyName": "goteborg-kungsgatan",
+            "friendlyUrl": "https://www.store.se/varuhus/goteborg-kungsgatan"
+        },
+        {
+            "name": "Göteborg Partille",
+            "type": "StoreLocation",
+            "address2": "Allum 323, Nils Henrikssonsväg 3",
+            "postalCode": "433 35",
+            "city": "Partille",
+            "country": "Sverige",
+            "countryCode": "SE",
+            "phoneBusiness": "031-12 34 56",
+            "uuid": "tGOsHnMrw3sAAAFYU5USzx1m",
+            "latitude": "57.736646",
+            "longitude": "12.106569",
+            "address": "Allum, Nils Henrikssonsväg",
+            "coordinates": {
+                "latitude": 57.736646,
+                "longitude": 12.106569
+            },
+            "openingHours": {
+                "Thu": "10:00 - 20:00",
+                "Tue": "10:00 - 20:00",
+                "Wed": "10:00 - 20:00",
+                "Sat": "10:00 - 18:00",
+                "Fri": "10:00 - 20:00",
+                "Mon": "10:00 - 20:00",
+                "Sun": "10:00 - 18:00"
+            },
+            "todayOpeningHours": {
+                "Idag": "10:00 - 20:00"
+            },
+            "specialOpeningHours": [
+                {
+                    "name": "Julafton",
+                    "date": "24 dec",
+                    "hours": "10:00 - 14:00"
+                },
+                {
+                    "name": "Juldagen",
+                    "date": "25 dec",
+                    "hours": "Stängt"
+                },
+                {
+                    "name": "Annandag jul",
+                    "date": "26 dec",
+                    "hours": "10:00 - 18:00"
+                },
+                {
+                    "name": "Nyårsafton",
+                    "date": "31 dec",
+                    "hours": "10:00 - 16:00"
+                },
+                {
+                    "name": "Nyårsdagen",
+                    "date": "1 jan",
+                    "hours": "Stängt"
+                }
+            ],
+            "id": "404",
+            "pickupInformation": "",
+            "friendlyName": "goteborg-partille",
+            "friendlyUrl": "https://www.store.se/varuhus/goteborg-partille"
+        },
+        {
+            "name": "Göteborg Västra Frölunda",
+            "type": "StoreLocation",
+            "postalCode": "421 42",
+            "city": "Västra frölunda",
+            "country": "Sverige",
+            "countryCode": "SE",
+            "phoneBusiness": "031-12 34 56",
+            "uuid": "Y2WsHnMr_noAAAFYFdESzx1m",
+            "latitude": "57.652933",
+            "longitude": "11.910896",
+            "address": "Frölunda Torg",
+            "coordinates": {
+                "latitude": 57.652933,
+                "longitude": 11.910896
+            },
+            "openingHours": {
+                "Thu": "10:00 - 20:00",
+                "Tue": "10:00 - 20:00",
+                "Wed": "10:00 - 20:00",
+                "Sat": "10:00 - 18:00",
+                "Fri": "10:00 - 20:00",
+                "Mon": "10:00 - 20:00",
+                "Sun": "10:00 - 18:00"
+            },
+            "todayOpeningHours": {
+                "Idag": "10:00 - 20:00"
+            },
+            "specialOpeningHours": [
+                {
+                    "name": "Julafton",
+                    "date": "24 dec",
+                    "hours": "10:00 - 14:00"
+                },
+                {
+                    "name": "Juldagen",
+                    "date": "25 dec",
+                    "hours": "Stängt"
+                },
+                {
+                    "name": "Annandag jul",
+                    "date": "26 dec",
+                    "hours": "10:00 - 18:00"
+                },
+                {
+                    "name": "Nyårsafton",
+                    "date": "31 dec",
+                    "hours": "10:00 - 14:00"
+                },
+                {
+                    "name": "Nyårsdagen",
+                    "date": "1 jan",
+                    "hours": "Stängt"
+                }
+            ],
+            "id": "466",
+            "pickupInformation": "",
+            "friendlyName": "goteborg-vastra-frolunda",
+            "friendlyUrl": "https://www.store.se/varuhus/goteborg-vastra-frolunda"
+        },
+        {
+            "name": "Halmstad",
+            "type": "StoreLocation",
+            "address2": "Brogatan 12-14",
+            "postalCode": "302 43",
+            "city": "Halmstad",
+            "country": "Sverige",
+            "countryCode": "SE",
+            "phoneBusiness": "031-12 34 56",
+            "uuid": "NZisHnMryMwAAAFYotYSzx1m",
+            "latitude": "56.674539",
+            "longitude": "12.8566",
+            "address": "Brogatan 12-14",
+            "coordinates": {
+                "latitude": 56.674539,
+                "longitude": 12.8566
+            },
+            "openingHours": {
+                "Thu": "10:00 - 18:00",
+                "Tue": "10:00 - 18:00",
+                "Wed": "10:00 - 18:00",
+                "Sat": "10:00 - 16:00",
+                "Fri": "10:00 - 18:00",
+                "Mon": "10:00 - 18:00",
+                "Sun": "12:00 - 16:00"
+            },
+            "todayOpeningHours": {
+                "Idag": "10:00 - 18:00"
+            },
+            "specialOpeningHours": [
+                {
+                    "name": "1:a Advent",
+                    "date": "3 dec",
+                    "hours": "12:00 - 18:00"
+                },
+                {
+                    "name": "Julafton",
+                    "date": "24 dec",
+                    "hours": "10:00 - 14:00"
+                },
+                {
+                    "name": "Juldagen",
+                    "date": "25 dec",
+                    "hours": "Stängt"
+                },
+                {
+                    "name": "Annandag jul",
+                    "date": "26 dec",
+                    "hours": "10:00 - 16:00"
+                },
+                {
+                    "name": "Nyårsafton",
+                    "date": "31 dec",
+                    "hours": "10:00 - 14:00"
+                }
+            ],
+            "id": "509",
+            "pickupInformation": "",
+            "friendlyName": "halmstad",
+            "friendlyUrl": "https://www.store.se/varuhus/halmstad"
+        },
+        {
+            "name": "Helsingborg Väla",
+            "type": "StoreLocation",
+            "address2": "Marknadsv. 9",
+            "postalCode": "260 36",
+            "city": "ÖDÅKRA",
+            "country": "Sverige",
+            "countryCode": "SE",
+            "phoneBusiness": "031-12 34 56",
+            "uuid": "SoOsHnMrDHIAAAFYe6ESzxzB",
+            "latitude": "56.091313",
+            "longitude": "12.759676",
+            "address": "Väla Centrum",
+            "coordinates": {
+                "latitude": 56.091313,
+                "longitude": 12.759676
+            },
+            "openingHours": {
+                "Thu": "10:00 - 20:00",
+                "Tue": "10:00 - 20:00",
+                "Wed": "10:00 - 20:00",
+                "Sat": "10:00 - 18:00",
+                "Fri": "10:00 - 20:00",
+                "Mon": "10:00 - 20:00",
+                "Sun": "10:00 - 18:00"
+            },
+            "todayOpeningHours": {
+                "Idag": "10:00 - 20:00"
+            },
+            "specialOpeningHours": [
+                {
+                    "name": "Julafton",
+                    "date": "24 dec",
+                    "hours": "Stängt"
+                },
+                {
+                    "name": "Juldagen",
+                    "date": "25 dec",
+                    "hours": "Stängt"
+                },
+                {
+                    "name": "Annandag jul",
+                    "date": "26 dec",
+                    "hours": "10:00 - 18:00"
+                },
+                {
+                    "name": "Nyårsafton",
+                    "date": "31 dec",
+                    "hours": "10:00 - 15:00"
+                },
+                {
+                    "name": "Nyårsdagen",
+                    "date": "1 jan",
+                    "hours": "Stängt"
+                },
+                {
+                    "name": "Trettondagsafton",
+                    "date": "5 jan",
+                    "hours": "10:00 - 18:00"
+                },
+                {
+                    "name": "Trettondagen",
+                    "date": "6 jan",
+                    "hours": "10:00 - 18:00"
+                }
+            ],
+            "id": "452",
+            "pickupInformation": "",
+            "friendlyName": "helsingborg-vala",
+            "friendlyUrl": "https://www.store.se/varuhus/helsingborg-vala"
+        },
+        {
+            "name": "Jönköping",
+            "type": "StoreLocation",
+            "address2": "Ö. Storgatan 34",
+            "postalCode": "550 21",
+            "city": "Jönköping",
+            "country": "Sverige",
+            "countryCode": "SE",
+            "phoneBusiness": "031-12 34 56",
+            "uuid": "okisHnMr2TAAAAFYL9USzx1m",
+            "latitude": "57.781886",
+            "longitude": "14.174745",
+            "address": "Ö. Storgatan 34",
+            "coordinates": {
+                "latitude": 57.781886,
+                "longitude": 14.174745
+            },
+            "openingHours": {
+                "Thu": "10:00 - 18:00",
+                "Tue": "10:00 - 18:00",
+                "Wed": "10:00 - 18:00",
+                "Sat": "10:00 - 16:00",
+                "Fri": "10:00 - 18:00",
+                "Mon": "10:00 - 18:00",
+                "Sun": "12:00 - 16:00"
+            },
+            "todayOpeningHours": {
+                "Idag": "10:00 - 18:00"
+            },
+            "specialOpeningHours": [
+                {
+                    "name": "1:a Advent",
+                    "date": "3 dec",
+                    "hours": "12:00 - 18:00"
+                },
+                {
+                    "name": "Julafton",
+                    "date": "24 dec",
+                    "hours": "10:00 - 13:00"
+                },
+                {
+                    "name": "Juldagen",
+                    "date": "25 dec",
+                    "hours": "Stängt"
+                },
+                {
+                    "name": "Annandag jul",
+                    "date": "26 dec",
+                    "hours": "10:00 - 16:00"
+                },
+                {
+                    "name": "Nyårsafton",
+                    "date": "31 dec",
+                    "hours": "10:00 - 14:00"
+                },
+                {
+                    "name": "Nyårsdagen",
+                    "date": "1 jan",
+                    "hours": "Stängt"
+                },
+                {
+                    "name": "Trettondagsafton",
+                    "date": "5 jan",
+                    "hours": "10:00 - 19:00"
+                },
+                {
+                    "name": "Trettondagen",
+                    "date": "6 jan",
+                    "hours": "12:00 - 16:00"
+                }
+            ],
+            "id": "477",
+            "pickupInformation": "",
+            "friendlyName": "jonkoping",
+            "friendlyUrl": "https://www.store.se/varuhus/jonkoping"
+        },
+        {
+            "name": "Jönköping A6",
+            "type": "StoreLocation",
+            "address2": "Bataljonsgatan 5, Entré A",
+            "postalCode": "55305",
+            "city": "Jönköping",
+            "country": "Sverige",
+            "countryCode": "SE",
+            "phoneBusiness": "031-12 34 56",
+            "uuid": "uBWsHnMrTEIAAAFYVs0Szx1m",
+            "latitude": "57.774746",
+            "longitude": "14.204721",
+            "address": "A6 Centrum",
+            "coordinates": {
+                "latitude": 57.774746,
+                "longitude": 14.204721
+            },
+            "openingHours": {
+                "Thu": "10:00 - 20:00",
+                "Tue": "10:00 - 20:00",
+                "Wed": "10:00 - 20:00",
+                "Sat": "10:00 - 18:00",
+                "Fri": "10:00 - 20:00",
+                "Mon": "10:00 - 20:00",
+                "Sun": "11:00 - 17:00"
+            },
+            "todayOpeningHours": {
+                "Idag": "10:00 - 20:00"
+            },
+            "specialOpeningHours": [
+                {
+                    "name": "Julafton",
+                    "date": "24 dec",
+                    "hours": "10:00 - 13:00"
+                },
+                {
+                    "name": "Juldagen",
+                    "date": "25 dec",
+                    "hours": "Stängt"
+                },
+                {
+                    "name": "Annandag jul",
+                    "date": "26 dec",
+                    "hours": "10:00 - 18:00"
+                },
+                {
+                    "name": "Nyårsafton",
+                    "date": "31 dec",
+                    "hours": "10:00 - 14:00"
+                },
+                {
+                    "name": "Nyårsdagen",
+                    "date": "1 jan",
+                    "hours": "Stängt"
+                },
+                {
+                    "name": "Trettondagsafton",
+                    "date": "5 jan",
+                    "hours": "10:00 - 18:00"
+                },
+                {
+                    "name": "Trettondagen",
+                    "date": "6 jan",
+                    "hours": "11:00 - 17:00"
+                },
+                {
+                    "name": "Påskafton",
+                    "date": "30 mar",
+                    "hours": "10:00 - 16:00"
+                },
+                {
+                    "name": "Annandag Påsk",
+                    "date": "1 apr",
+                    "hours": "11:00 - 17:00"
+                },
+                {
+                    "name": "Valborgsmässoafton",
+                    "date": "30 apr",
+                    "hours": "10:00 - 18:00"
+                },
+                {
+                    "name": "1:a Maj",
+                    "date": "1 maj",
+                    "hours": "11:00 - 17:00"
+                },
+                {
+                    "name": "Kristi himmelsfärdsdag",
+                    "date": "9 maj",
+                    "hours": "11:00 - 17:00"
+                },
+                {
+                    "name": "Sveriges nationaldag",
+                    "date": "6 jun",
+                    "hours": "11:00 - 17:00"
+                },
+                {
+                    "name": "Alla Helgons Dag",
+                    "date": "2 nov",
+                    "hours": "11:00 - 17:00"
+                },
+                {
+                    "name": "Black Friday",
+                    "date": "29 nov",
+                    "hours": "09:00 - 21:00"
+                },
+                {
+                    "name": "Julafton",
+                    "date": "24 dec",
+                    "hours": "10:00 - 13:00"
+                },
+                {
+                    "name": "Juldagen",
+                    "date": "25 dec",
+                    "hours": "Stängt"
+                },
+                {
+                    "name": "Annandag jul",
+                    "date": "26 dec",
+                    "hours": "10:00 - 18:00"
+                },
+                {
+                    "name": "Nyårsafton",
+                    "date": "31 dec",
+                    "hours": "10:00 - 14:00"
+                }
+            ],
+            "id": "459",
+            "pickupInformation": "",
+            "friendlyName": "jonkoping-a6",
+            "friendlyUrl": "https://www.store.se/varuhus/jonkoping-a6"
+        },
+        {
+            "name": "Kalmar",
+            "type": "StoreLocation",
+            "address2": "Västra Sjögatan 31",
+            "postalCode": "392 32",
+            "city": "Kalmar",
+            "country": "Sverige",
+            "countryCode": "SE",
+            "phoneBusiness": "031-12 34 56",
+            "uuid": "stWsHnMrf5oAAAFYjNUSzxwc",
+            "latitude": "56.664493",
+            "longitude": "16.3639",
+            "address": "N:a Långgatan 27",
+            "coordinates": {
+                "latitude": 56.664493,
+                "longitude": 16.3639
+            },
+            "openingHours": {
+                "Thu": "10:00 - 18:00",
+                "Tue": "10:00 - 18:00",
+                "Wed": "10:00 - 18:00",
+                "Sat": "10:00 - 16:00",
+                "Fri": "10:00 - 18:00",
+                "Mon": "10:00 - 18:00",
+                "Sun": "12:00 - 16:00"
+            },
+            "todayOpeningHours": {
+                "Idag": "10:00 - 18:00"
+            },
+            "specialOpeningHours": [
+                {
+                    "name": "Julafton",
+                    "date": "24 dec",
+                    "hours": "10:00 - 14:00"
+                },
+                {
+                    "name": "Juldagen",
+                    "date": "25 dec",
+                    "hours": "Stängt"
+                },
+                {
+                    "name": "Annandag jul",
+                    "date": "26 dec",
+                    "hours": "10:00 - 16:00"
+                },
+                {
+                    "name": "Nyårsafton",
+                    "date": "31 dec",
+                    "hours": "10:00 - 14:00"
+                },
+                {
+                    "name": "Nyårsdagen",
+                    "date": "1 jan",
+                    "hours": "Stängt"
+                },
+                {
+                    "name": "Trettondagsafton",
+                    "date": "5 jan",
+                    "hours": "10:00 - 17:00"
+                }
+            ],
+            "id": "479",
+            "pickupInformation": "",
+            "friendlyName": "kalmar",
+            "friendlyUrl": "https://www.store.se/varuhus/kalmar"
+        },
+        {
+            "name": "Karlskrona",
+            "type": "StoreLocation",
+            "address2": "Ronnebygatan 34-36",
+            "postalCode": "371 13",
+            "city": "Karlskrona",
+            "country": "Sverige",
+            "countryCode": "SE",
+            "phoneBusiness": "031-12 34 56",
+            "uuid": "Fb.sHnMrEOYAAAFYP9sSzx1m",
+            "latitude": "56.162401",
+            "longitude": "15.588226",
+            "address": "Ronnebygatan 34-36",
+            "coordinates": {
+                "latitude": 56.162401,
+                "longitude": 15.588226
+            },
+            "openingHours": {
+                "Thu": "10:00 - 18:00",
+                "Tue": "10:00 - 18:00",
+                "Wed": "10:00 - 18:00",
+                "Sat": "10:00 - 16:00",
+                "Fri": "10:00 - 18:00",
+                "Mon": "10:00 - 18:00",
+                "Sun": "12:00 - 16:00"
+            },
+            "todayOpeningHours": {
+                "Idag": "10:00 - 18:00"
+            },
+            "specialOpeningHours": [
+                {
+                    "name": "Julafton",
+                    "date": "24 dec",
+                    "hours": "10:00 - 14:00"
+                },
+                {
+                    "name": "Juldagen",
+                    "date": "25 dec",
+                    "hours": "Stängt"
+                },
+                {
+                    "name": "Annandag jul",
+                    "date": "26 dec",
+                    "hours": "10:00 - 16:00"
+                },
+                {
+                    "name": "Nyårsafton",
+                    "date": "31 dec",
+                    "hours": "10:00 - 14:00"
+                },
+                {
+                    "name": "Nyårsdagen",
+                    "date": "1 jan",
+                    "hours": "Stängt"
+                },
+                {
+                    "name": "Trettondagsafton",
+                    "date": "6 jan",
+                    "hours": "10:00 - 16:00"
+                }
+            ],
+            "id": "517",
+            "pickupInformation": "",
+            "friendlyName": "karlskrona",
+            "friendlyUrl": "https://www.store.se/varuhus/karlskrona"
+        },
+        {
+            "name": "Karlstad",
+            "type": "StoreLocation",
+            "address2": "Järnvägsg. 3",
+            "postalCode": "652 25",
+            "city": "Karlstad",
+            "country": "Sverige",
+            "countryCode": "SE",
+            "phoneBusiness": "031-12 34 56",
+            "uuid": "vgGsHnMrZKIAAAFY.5MSzx1m",
+            "latitude": "59.378775",
+            "longitude": "13.498957",
+            "address": "Järnvägsgatan 3",
+            "coordinates": {
+                "latitude": 59.378775,
+                "longitude": 13.498957
+            },
+            "openingHours": {
+                "Thu": "10:00 - 19:00",
+                "Tue": "10:00 - 19:00",
+                "Wed": "10:00 - 19:00",
+                "Sat": "10:00 - 17:00",
+                "Fri": "10:00 - 19:00",
+                "Mon": "10:00 - 19:00",
+                "Sun": "12:00 - 16:00"
+            },
+            "todayOpeningHours": {
+                "Idag": "10:00 - 19:00"
+            },
+            "specialOpeningHours": [
+                {
+                    "name": "1:a Advent",
+                    "date": "26 nov",
+                    "hours": "12:00 - 17:00"
+                },
+                {
+                    "name": "2:a Advent",
+                    "date": "3 dec",
+                    "hours": "12:00 - 17:00"
+                },
+                {
+                    "name": "3:e Advent",
+                    "date": "10 dec",
+                    "hours": "12:00 - 17:00"
+                },
+                {
+                    "name": "4:e Advent",
+                    "date": "17 dec",
+                    "hours": "12:00 - 17:00"
+                },
+                {
+                    "name": "Julafton",
+                    "date": "24 dec",
+                    "hours": "10:00 - 14:00"
+                },
+                {
+                    "name": "Juldagen",
+                    "date": "25 dec",
+                    "hours": "Stängt"
+                },
+                {
+                    "name": "Annandag jul",
+                    "date": "26 dec",
+                    "hours": "10:00 - 16:00"
+                },
+                {
+                    "name": "Nyårsafton",
+                    "date": "31 dec",
+                    "hours": "12:00 - 16:00"
+                },
+                {
+                    "name": "Nyårsdagen",
+                    "date": "1 jan",
+                    "hours": "Stängt"
+                }
+            ],
+            "id": "380",
+            "pickupInformation": "",
+            "friendlyName": "karlstad",
+            "friendlyUrl": "https://www.store.se/varuhus/karlstad"
+        },
+        {
+            "name": "Katrineholm",
+            "type": "StoreLocation",
+            "address2": "Köpmangatan 18",
+            "postalCode": "641 30",
+            "city": "Katrineholm",
+            "country": "Sverige",
+            "countryCode": "SE",
+            "phoneBusiness": "031-12 34 56",
+            "uuid": "S4isHnMrx2sAAAFYasQSzx1m",
+            "latitude": "58.995532",
+            "longitude": "16.206894",
+            "address": "Köpmangatan 18",
+            "coordinates": {
+                "latitude": 58.995532,
+                "longitude": 16.206894
+            },
+            "openingHours": {
+                "Thu": "10:00 - 18:00",
+                "Tue": "10:00 - 18:00",
+                "Wed": "10:00 - 18:00",
+                "Sat": "10:00 - 15:00",
+                "Fri": "10:00 - 18:00",
+                "Mon": "10:00 - 18:00",
+                "Sun": " - "
+            },
+            "todayOpeningHours": {
+                "Idag": "10:00 - 18:00"
+            },
+            "specialOpeningHours": [
+                {
+                    "name": "3:e Advent",
+                    "date": "17 dec",
+                    "hours": "11:00 - 15:00"
+                },
+                {
+                    "name": "Julafton",
+                    "date": "24 dec",
+                    "hours": "10:00 - 13:00"
+                },
+                {
+                    "name": "Juldagen",
+                    "date": "25 dec",
+                    "hours": "Stängt"
+                },
+                {
+                    "name": "Annandag jul",
+                    "date": "26 dec",
+                    "hours": "10:00 - 15:00"
+                }
+            ],
+            "id": "440",
+            "pickupInformation": "",
+            "friendlyName": "katrineholm",
+            "friendlyUrl": "https://www.store.se/varuhus/katrineholm"
+        },
+        {
+            "name": "Kristianstad",
+            "type": "StoreLocation",
+            "address2": "Östra Storgatan 63",
+            "postalCode": "291 31",
+            "city": "Kristianstad",
+            "country": "Sverige",
+            "countryCode": "SE",
+            "phoneBusiness": "031-12 34 56",
+            "uuid": "_vmsHnMrPDwAAAFYDtsSzx1m",
+            "latitude": "56.029303",
+            "longitude": "14.157536",
+            "address": "Östra Storgatan 63",
+            "coordinates": {
+                "latitude": 56.029303,
+                "longitude": 14.157536
+            },
+            "openingHours": {
+                "Thu": "10:00 - 18:00",
+                "Tue": "10:00 - 18:00",
+                "Wed": "10:00 - 18:00",
+                "Sat": "10:00 - 16:00",
+                "Fri": "10:00 - 18:00",
+                "Mon": "10:00 - 18:00",
+                "Sun": " - "
+            },
+            "todayOpeningHours": {
+                "Idag": "10:00 - 18:00"
+            },
+            "specialOpeningHours": [
+                {
+                    "name": "söndag",
+                    "date": "26 nov",
+                    "hours": "12:00 - 16:00"
+                },
+                {
+                    "name": "1:a Advent",
+                    "date": "3 dec",
+                    "hours": "12:00 - 17:00"
+                },
+                {
+                    "name": "2:a Advent",
+                    "date": "10 dec",
+                    "hours": "12:00 - 16:00"
+                },
+                {
+                    "name": "3:e Advent",
+                    "date": "17 dec",
+                    "hours": "12:00 - 16:00"
+                },
+                {
+                    "name": "Julafton",
+                    "date": "24 dec",
+                    "hours": "10:00 - 14:00"
+                },
+                {
+                    "name": "Juldagen",
+                    "date": "25 dec",
+                    "hours": "Stängt"
+                },
+                {
+                    "name": "Annandag jul",
+                    "date": "26 dec",
+                    "hours": "10:00 - 18:00"
+                },
+                {
+                    "name": "Nyårsafton",
+                    "date": "31 dec",
+                    "hours": "10:00 - 14:00"
+                },
+                {
+                    "name": "Nyårsdagen",
+                    "date": "1 jan",
+                    "hours": "Stängt"
+                },
+                {
+                    "name": "Trettondagen",
+                    "date": "6 jan",
+                    "hours": "12:00 - 16:00"
+                }
+            ],
+            "id": "516",
+            "pickupInformation": "",
+            "friendlyName": "kristianstad",
+            "friendlyUrl": "https://www.store.se/varuhus/kristianstad"
+        },
+        {
+            "name": "Lidköping",
+            "type": "StoreLocation",
+            "address2": "Sveagatan 23",
+            "postalCode": "531 31",
+            "city": "Lidköping",
+            "country": "Sverige",
+            "countryCode": "SE",
+            "phoneBusiness": "031-12 34 56",
+            "uuid": "qcCsHnMrddIAAAFYwKISzxzB",
+            "latitude": "58.503392",
+            "longitude": "13.153811",
+            "address": "Sveagatan 23",
+            "coordinates": {
+                "latitude": 58.503392,
+                "longitude": 13.153811
+            },
+            "openingHours": {
+                "Thu": "10:00 - 18:00",
+                "Tue": "10:00 - 18:00",
+                "Wed": "10:00 - 18:00",
+                "Sat": "10:00 - 15:00",
+                "Fri": "10:00 - 18:00",
+                "Mon": "10:00 - 18:00",
+                "Sun": "12:00 - 16:00"
+            },
+            "todayOpeningHours": {
+                "Idag": "10:00 - 18:00"
+            },
+            "specialOpeningHours": [
+                {
+                    "name": "lör - sön",
+                    "date": "2 dec",
+                    "hours": "10:00 - 16:00"
+                },
+                {
+                    "name": "lör - sön",
+                    "date": "9 dec",
+                    "hours": "10:00 - 16:00"
+                },
+                {
+                    "name": "lör - sön",
+                    "date": "16 dec",
+                    "hours": "10:00 - 16:00"
+                },
+                {
+                    "name": "mån - fre",
+                    "date": "18 dec",
+                    "hours": "10:00 - 19:00"
+                },
+                {
+                    "name": "mån - fre",
+                    "date": "19 dec",
+                    "hours": "10:00 - 19:00"
+                },
+                {
+                    "name": "mån - fre",
+                    "date": "20 dec",
+                    "hours": "10:00 - 19:00"
+                },
+                {
+                    "name": "mån - fre",
+                    "date": "21 dec",
+                    "hours": "10:00 - 19:00"
+                },
+                {
+                    "name": "mån - fre",
+                    "date": "22 dec",
+                    "hours": "10:00 - 19:00"
+                },
+                {
+                    "name": "lör - sön",
+                    "date": "23 dec",
+                    "hours": "10:00 - 16:00"
+                },
+                {
+                    "name": "Julafton",
+                    "date": "24 dec",
+                    "hours": "10:00 - 13:00"
+                },
+                {
+                    "name": "Juldagen",
+                    "date": "25 dec",
+                    "hours": "Stängt"
+                },
+                {
+                    "name": "Annandag jul",
+                    "date": "26 dec",
+                    "hours": "10:00 - 16:00"
+                },
+                {
+                    "name": "Nyårsafton",
+                    "date": "31 dec",
+                    "hours": "10:00 - 14:00"
+                },
+                {
+                    "name": "Nyårsdagen",
+                    "date": "1 jan",
+                    "hours": "Stängt"
+                },
+                {
+                    "name": "Trettondagen",
+                    "date": "6 jan",
+                    "hours": "10:00 - 15:00"
+                }
+            ],
+            "id": "579",
+            "pickupInformation": "",
+            "friendlyName": "lidkoping",
+            "friendlyUrl": "https://www.store.se/varuhus/lidkoping"
+        },
+        {
+            "name": "Linköping Storgatan",
+            "type": "StoreLocation",
+            "address2": "Storgatan 11-13",
+            "postalCode": "582 23",
+            "city": "Linköping",
+            "country": "Sverige",
+            "countryCode": "SE",
+            "phoneBusiness": "031-12 34 56",
+            "uuid": "byWsHnMrmjIAAAFYd6ISzx1m",
+            "latitude": "58.411638",
+            "longitude": "15.627812",
+            "address": "Storgatan 11-13",
+            "coordinates": {
+                "latitude": 58.411638,
+                "longitude": 15.627812
+            },
+            "openingHours": {
+                "Thu": "10:00 - 19:00",
+                "Tue": "10:00 - 19:00",
+                "Wed": "10:00 - 19:00",
+                "Sat": "10:00 - 17:00",
+                "Fri": "10:00 - 19:00",
+                "Mon": "10:00 - 19:00",
+                "Sun": "12:00 - 16:00"
+            },
+            "todayOpeningHours": {
+                "Idag": "10:00 - 19:00"
+            },
+            "specialOpeningHours": [
+                {
+                    "name": "Julshopping ",
+                    "date": "18 dec",
+                    "hours": "10:00 - 19:00"
+                },
+                {
+                    "name": "Julshopping ",
+                    "date": "19 dec",
+                    "hours": "10:00 - 19:00"
+                },
+                {
+                    "name": "Julshopping ",
+                    "date": "20 dec",
+                    "hours": "10:00 - 19:00"
+                },
+                {
+                    "name": "Julshopping ",
+                    "date": "21 dec",
+                    "hours": "10:00 - 19:00"
+                },
+                {
+                    "name": "Julafton",
+                    "date": "24 dec",
+                    "hours": "10:00 - 13:00"
+                },
+                {
+                    "name": "Juldagen",
+                    "date": "25 dec",
+                    "hours": "12:00 - 16:00"
+                },
+                {
+                    "name": "Annandag jul",
+                    "date": "26 dec",
+                    "hours": "10:00 - 17:00"
+                },
+                {
+                    "name": "Nyårsafton",
+                    "date": "31 dec",
+                    "hours": "10:00 - 15:00"
+                },
+                {
+                    "name": "Nyårsdagen",
+                    "date": "1 jan",
+                    "hours": "Stängt"
+                },
+                {
+                    "name": "Trettondagsafton",
+                    "date": "5 jan",
+                    "hours": "10:00 - 17:00"
+                },
+                {
+                    "name": "Trettondagen",
+                    "date": "6 jan",
+                    "hours": "12:00 - 16:00"
+                }
+            ],
+            "id": "409",
+            "pickupInformation": "",
+            "friendlyName": "linkoping-storgatan",
+            "friendlyUrl": "https://www.store.se/varuhus/linkoping-storgatan"
+        },
+        {
+            "name": "Luleå",
+            "type": "StoreLocation",
+            "address2": "Storgatan 41",
+            "postalCode": "972 31",
+            "city": "Luleå",
+            "country": "Sverige",
+            "countryCode": "SE",
+            "phoneBusiness": "031-12 34 56",
+            "uuid": "SqqsHnMryHcAAAFY.bcSzx1m",
+            "latitude": "65.584186",
+            "longitude": "22.148652",
+            "address": "Storgatan 41",
+            "coordinates": {
+                "latitude": 65.584186,
+                "longitude": 22.148652
+            },
+            "openingHours": {
+                "Thu": "10:00 - 19:00",
+                "Tue": "10:00 - 19:00",
+                "Wed": "10:00 - 19:00",
+                "Sat": "10:00 - 16:00",
+                "Fri": "10:00 - 19:00",
+                "Mon": "10:00 - 19:00",
+                "Sun": "12:00 - 16:00"
+            },
+            "todayOpeningHours": {
+                "Idag": "10:00 - 19:00"
+            },
+            "specialOpeningHours": [
+                {
+                    "name": "Extra Julöppet",
+                    "date": "25 nov",
+                    "hours": "10:00 - 17:00"
+                },
+                {
+                    "name": "Skyltsöndag",
+                    "date": "26 nov",
+                    "hours": "12:00 - 16:00"
+                },
+                {
+                    "name": "Extra Julöppet",
+                    "date": "2 dec",
+                    "hours": "10:00 - 17:00"
+                },
+                {
+                    "name": "Extra Julöppet",
+                    "date": "9 dec",
+                    "hours": "10:00 - 17:00"
+                },
+                {
+                    "name": "Extra Julöppet",
+                    "date": "16 dec",
+                    "hours": "10:00 - 17:00"
+                },
+                {
+                    "name": "Extra Julöppet",
+                    "date": "23 dec",
+                    "hours": "10:00 - 16:00"
+                },
+                {
+                    "name": "Julafton",
+                    "date": "24 dec",
+                    "hours": "10:00 - 14:00"
+                },
+                {
+                    "name": "Juldagen",
+                    "date": "25 dec",
+                    "hours": "Stängt"
+                },
+                {
+                    "name": "Annandag jul",
+                    "date": "26 dec",
+                    "hours": "10:00 - 16:00"
+                },
+                {
+                    "name": "Nyårsafton",
+                    "date": "31 dec",
+                    "hours": "10:00 - 14:00"
+                }
+            ],
+            "id": "425",
+            "pickupInformation": "",
+            "friendlyName": "lulea",
+            "friendlyUrl": "https://www.store.se/varuhus/lulea"
+        },
+        {
+            "name": "Lund",
+            "type": "StoreLocation",
+            "address2": "Grönegatan 1",
+            "postalCode": "222 23",
+            "city": "Lund",
+            "country": "Sverige",
+            "countryCode": "SE",
+            "phoneBusiness": "031-12 34 56",
+            "uuid": "jvesHnMrFCkAAAFYtNUSzxwc",
+            "latitude": "55.701303",
+            "longitude": "13.192348",
+            "address": "Stortorget 4",
+            "coordinates": {
+                "latitude": 55.701303,
+                "longitude": 13.192348
+            },
+            "openingHours": {
+                "Thu": "10:00 - 19:00",
+                "Tue": "10:00 - 19:00",
+                "Wed": "10:00 - 19:00",
+                "Sat": "10:00 - 17:00",
+                "Fri": "10:00 - 19:00",
+                "Mon": "10:00 - 19:00",
+                "Sun": "12:00 - 16:00"
+            },
+            "todayOpeningHours": {
+                "Idag": "10:00 - 19:00"
+            },
+            "specialOpeningHours": [
+                {
+                    "name": "1:a Advent",
+                    "date": "3 dec",
+                    "hours": "11:00 - 18:00"
+                },
+                {
+                    "name": "2:a Advent",
+                    "date": "10 dec",
+                    "hours": "11:00 - 16:00"
+                },
+                {
+                    "name": "3:e Advent",
+                    "date": "17 dec",
+                    "hours": "11:00 - 16:00"
+                },
+                {
+                    "name": "Juldagen",
+                    "date": "25 dec",
+                    "hours": "Stängt"
+                },
+                {
+                    "name": "Annandag jul",
+                    "date": "26 dec",
+                    "hours": "11:00 - 17:00"
+                },
+                {
+                    "name": "Nyårsafton",
+                    "date": "31 dec",
+                    "hours": "10:00 - 14:00"
+                },
+                {
+                    "name": "Nyårsdagen",
+                    "date": "1 jan",
+                    "hours": "Stängt"
+                }
+            ],
+            "id": "506",
+            "pickupInformation": "",
+            "friendlyName": "lund",
+            "friendlyUrl": "https://www.store.se/varuhus/lund"
+        },
+        {
+            "name": "Malmö City",
+            "type": "StoreLocation",
+            "address2": "Södergatan 17",
+            "postalCode": "211 34",
+            "city": "Malmö",
+            "country": "Sverige",
+            "countryCode": "SE",
+            "phoneBusiness": "031-12 34 56",
+            "uuid": "zxGsHnMrGcAAAAFYIJUSzx1m",
+            "latitude": "55.604293",
+            "longitude": "13.001375",
+            "address": "Södergatan 17",
+            "coordinates": {
+                "latitude": 55.604293,
+                "longitude": 13.001375
+            },
+            "openingHours": {
+                "Thu": "10:00 - 20:00",
+                "Tue": "10:00 - 20:00",
+                "Wed": "10:00 - 20:00",
+                "Sat": "10:00 - 19:00",
+                "Fri": "10:00 - 20:00",
+                "Mon": "10:00 - 20:00",
+                "Sun": "11:00 - 18:00"
+            },
+            "todayOpeningHours": {
+                "Idag": "10:00 - 20:00"
+            },
+            "specialOpeningHours": [
+                {
+                    "name": "3:e Advent",
+                    "date": "17 dec",
+                    "hours": "10:00 - 19:00"
+                },
+                {
+                    "name": "Julöppet",
+                    "date": "22 dec",
+                    "hours": "10:00 - 21:00"
+                },
+                {
+                    "name": "Lille Julafton",
+                    "date": "23 dec",
+                    "hours": "10:00 - 20:00"
+                },
+                {
+                    "name": "Julafton",
+                    "date": "24 dec",
+                    "hours": "10:00 - 14:00"
+                },
+                {
+                    "name": "Juldagen",
+                    "date": "25 dec",
+                    "hours": "Stängt"
+                },
+                {
+                    "name": "Annandag jul",
+                    "date": "26 dec",
+                    "hours": "09:00 - 19:00"
+                },
+                {
+                    "name": "Nyårsafton",
+                    "date": "31 dec",
+                    "hours": "10:00 - 15:00"
+                },
+                {
+                    "name": "Nyårsdagen",
+                    "date": "1 jan",
+                    "hours": "Stängt"
+                }
+            ],
+            "id": "402",
+            "pickupInformation": "",
+            "friendlyName": "malmo-city",
+            "friendlyUrl": "https://www.store.se/varuhus/malmo-city"
+        },
+        {
+            "name": "Norrköping",
+            "type": "StoreLocation",
+            "address2": "Prästgatan 22",
+            "postalCode": "602 32",
+            "city": "Norrköping",
+            "country": "Sverige",
+            "countryCode": "SE",
+            "phoneBusiness": "031-12 34 56",
+            "uuid": "B_.sHnMrvKgAAAFY5H4Szx1m",
+            "latitude": "58.588042",
+            "longitude": "16.190522",
+            "address": "Prästgatan 22",
+            "coordinates": {
+                "latitude": 58.588042,
+                "longitude": 16.190522
+            },
+            "openingHours": {
+                "Thu": "10:00 - 19:00",
+                "Tue": "10:00 - 19:00",
+                "Wed": "10:00 - 19:00",
+                "Sat": "10:00 - 17:00",
+                "Fri": "10:00 - 19:00",
+                "Mon": "10:00 - 19:00",
+                "Sun": "12:00 - 16:00"
+            },
+            "todayOpeningHours": {
+                "Idag": "10:00 - 19:00"
+            },
+            "specialOpeningHours": [
+                {
+                    "name": "extra julöppet",
+                    "date": "20 dec",
+                    "hours": "10:00 - 20:00"
+                },
+                {
+                    "name": "extra julöppet",
+                    "date": "21 dec",
+                    "hours": "10:00 - 20:00"
+                },
+                {
+                    "name": "extra julöppet",
+                    "date": "22 dec",
+                    "hours": "10:00 - 20:00"
+                },
+                {
+                    "name": "Julafton",
+                    "date": "24 dec",
+                    "hours": "Stängt"
+                },
+                {
+                    "name": "Juldagen",
+                    "date": "25 dec",
+                    "hours": "Stängt"
+                },
+                {
+                    "name": "Annandag jul",
+                    "date": "26 dec",
+                    "hours": "10:00 - 17:00"
+                },
+                {
+                    "name": "Nyårsafton",
+                    "date": "31 dec",
+                    "hours": "12:00 - 16:00"
+                },
+                {
+                    "name": "Nyårsdagen",
+                    "date": "1 jan",
+                    "hours": "Stängt"
+                }
+            ],
+            "id": "350",
+            "pickupInformation": "",
+            "friendlyName": "norrkoping",
+            "friendlyUrl": "https://www.store.se/varuhus/norrkoping"
+        },
+        {
+            "name": "Norrtälje",
+            "type": "StoreLocation",
+            "address2": "Tullportsgatan 16",
+            "postalCode": "761 30",
+            "city": "Norrtälje",
+            "country": "Sverige",
+            "countryCode": "SE",
+            "phoneBusiness": "031-12 34 56",
+            "uuid": "bemsHnMrk.QAAAFYwpwSzx1m",
+            "latitude": "59.757216",
+            "longitude": "18.699889",
+            "address": "Tullportsgatan 16",
+            "coordinates": {
+                "latitude": 59.757216,
+                "longitude": 18.699889
+            },
+            "openingHours": {
+                "Thu": "10:00 - 18:00",
+                "Tue": "10:00 - 18:00",
+                "Wed": "10:00 - 18:00",
+                "Sat": "10:00 - 16:00",
+                "Fri": "10:00 - 18:00",
+                "Mon": "10:00 - 18:00",
+                "Sun": "12:00 - 16:00"
+            },
+            "todayOpeningHours": {
+                "Idag": "10:00 - 18:00"
+            },
+            "specialOpeningHours": [
+                {
+                    "name": "1:a Advent",
+                    "date": "3 dec",
+                    "hours": "11:00 - 16:00"
+                },
+                {
+                    "name": "2:a Advent",
+                    "date": "10 dec",
+                    "hours": "11:00 - 16:00"
+                },
+                {
+                    "name": "3:e Advent",
+                    "date": "17 dec",
+                    "hours": "11:00 - 16:00"
+                },
+                {
+                    "name": "Lördag",
+                    "date": "23 dec",
+                    "hours": "10:00 - 17:00"
+                },
+                {
+                    "name": "Julafton",
+                    "date": "24 dec",
+                    "hours": "10:00 - 13:00"
+                },
+                {
+                    "name": "Juldagen",
+                    "date": "25 dec",
+                    "hours": "Stängt"
+                },
+                {
+                    "name": "Annandag jul",
+                    "date": "26 dec",
+                    "hours": "10:00 - 16:00"
+                },
+                {
+                    "name": "Nyårsafton",
+                    "date": "31 dec",
+                    "hours": "10:00 - 14:00"
+                },
+                {
+                    "name": "Nyårsdagen",
+                    "date": "31 dec",
+                    "hours": "Stängt"
+                }
+            ],
+            "id": "406",
+            "pickupInformation": "",
+            "friendlyName": "norrtalje",
+            "friendlyUrl": "https://www.store.se/varuhus/norrtalje"
+        },
+        {
+            "name": "Nyköping",
+            "type": "StoreLocation",
+            "address2": "Bagaregatan 46",
+            "postalCode": "611 30",
+            "city": "Nyköping",
+            "country": "Sverige",
+            "countryCode": "SE",
+            "phoneBusiness": "031-12 34 56",
+            "uuid": "VJOsHnMrZj8AAAFYu7ASzx1m",
+            "latitude": "58.752465",
+            "longitude": "17.006793",
+            "address": "V:a Storgatan 13",
+            "coordinates": {
+                "latitude": 58.752465,
+                "longitude": 17.006793
+            },
+            "openingHours": {
+                "Thu": "10:00 - 19:00",
+                "Tue": "10:00 - 19:00",
+                "Wed": "10:00 - 19:00",
+                "Sat": "10:00 - 16:00",
+                "Fri": "10:00 - 19:00",
+                "Mon": "10:00 - 19:00",
+                "Sun": "12:00 - 16:00"
+            },
+            "todayOpeningHours": {
+                "Idag": "10:00 - 19:00"
+            },
+            "specialOpeningHours": [
+                {
+                    "name": "Juldagen",
+                    "date": "25 dec",
+                    "hours": "Stängt"
+                },
+                {
+                    "name": "Annandag jul",
+                    "date": "26 dec",
+                    "hours": "12:00 - 16:00"
+                },
+                {
+                    "name": "Nyårsafton",
+                    "date": "31 dec",
+                    "hours": "10:00 - 15:00"
+                },
+                {
+                    "name": "Nyårsdagen",
+                    "date": "1 jan",
+                    "hours": "Stängt"
+                }
+            ],
+            "id": "416",
+            "pickupInformation": "",
+            "friendlyName": "nykoping",
+            "friendlyUrl": "https://www.store.se/varuhus/nykoping"
+        },
+        {
+            "name": "Piteå",
+            "type": "StoreLocation",
+            "address2": "Storgatan 48 C",
+            "postalCode": "941 32",
+            "city": "Piteå",
+            "country": "Sverige",
+            "countryCode": "SE",
+            "phoneBusiness": "031-12 34 56",
+            "uuid": "3omsHnMrPQAAAAFYr8kSzx1m",
+            "latitude": "65.316389",
+            "longitude": "21.481981",
+            "address": "Storgatan  46",
+            "coordinates": {
+                "latitude": 65.316389,
+                "longitude": 21.481981
+            },
+            "openingHours": {
+                "Thu": "10:00 - 18:00",
+                "Tue": "10:00 - 18:00",
+                "Wed": "10:00 - 18:00",
+                "Sat": "10:00 - 16:00",
+                "Fri": "10:00 - 18:00",
+                "Mon": "10:00 - 18:00",
+                "Sun": "12:00 - 16:00"
+            },
+            "todayOpeningHours": {
+                "Idag": "10:00 - 18:00"
+            },
+            "specialOpeningHours": [
+                {
+                    "name": "Julshoppinghelg",
+                    "date": "16 dec",
+                    "hours": "10:00 - 17:00"
+                },
+                {
+                    "name": "Julshoppinghelg",
+                    "date": "17 dec",
+                    "hours": "12:00 - 17:00"
+                },
+                {
+                    "name": "Hemvändarkväll",
+                    "date": "22 dec",
+                    "hours": "10:00 - 21:00"
+                },
+                {
+                    "name": "Julafton",
+                    "date": "24 dec",
+                    "hours": "10:00 - 14:00"
+                },
+                {
+                    "name": "Juldagen",
+                    "date": "25 dec",
+                    "hours": "Stängt"
+                },
+                {
+                    "name": "Annandag jul",
+                    "date": "26 dec",
+                    "hours": "10:00 - 16:00"
+                },
+                {
+                    "name": "Nyårsafton",
+                    "date": "31 dec",
+                    "hours": "10:00 - 14:00"
+                }
+            ],
+            "id": "454",
+            "pickupInformation": "",
+            "friendlyName": "pitea",
+            "friendlyUrl": "https://www.store.se/varuhus/pitea"
+        },
+        {
+            "name": "Skellefteå",
+            "type": "StoreLocation",
+            "address2": "Nygatan 46",
+            "postalCode": "931 31",
+            "city": "Skellefteå",
+            "country": "Sverige",
+            "countryCode": "SE",
+            "phoneBusiness": "031-12 34 56",
+            "uuid": "AVSsHnMrq_MAAAFYUcQSzx1m",
+            "latitude": "64.750246",
+            "longitude": "20.953374",
+            "address": "Nygatan 46",
+            "coordinates": {
+                "latitude": 64.750246,
+                "longitude": 20.953374
+            },
+            "openingHours": {
+                "Thu": "10:00 - 19:00",
+                "Tue": "10:00 - 19:00",
+                "Wed": "10:00 - 19:00",
+                "Sat": "10:00 - 16:00",
+                "Fri": "10:00 - 19:00",
+                "Mon": "10:00 - 19:00",
+                "Sun": "12:00 - 16:00"
+            },
+            "todayOpeningHours": {
+                "Idag": "10:00 - 19:00"
+            },
+            "specialOpeningHours": [
+                {
+                    "name": "Julafton",
+                    "date": "24 dec",
+                    "hours": "10:00 - 14:00"
+                },
+                {
+                    "name": "Juldagen",
+                    "date": "25 dec",
+                    "hours": "Stängt"
+                },
+                {
+                    "name": "Annandag jul",
+                    "date": "26 dec",
+                    "hours": "10:00 - 16:00"
+                },
+                {
+                    "name": "Nyårsafton",
+                    "date": "31 dec",
+                    "hours": "10:00 - 14:00"
+                }
+            ],
+            "id": "439",
+            "pickupInformation": "",
+            "friendlyName": "skelleftea",
+            "friendlyUrl": "https://www.store.se/varuhus/skelleftea"
+        },
+        {
+            "name": "Stockholm Bromma",
+            "type": "StoreLocation",
+            "address2": "Ulvsundavägen 185 C,59 ",
+            "postalCode": "168 67",
+            "city": "Bromma",
+            "country": "Sverige",
+            "countryCode": "SE",
+            "phoneBusiness": "031-12 34 56",
+            "uuid": "cxmsHnMr02wAAAFYKckSzx1m",
+            "latitude": "59.356712",
+            "longitude": "17.954772",
+            "address": "Ulvsundavägen 185",
+            "coordinates": {
+                "latitude": 59.356712,
+                "longitude": 17.954772
+            },
+            "openingHours": {
+                "Thu": "10:00 - 20:00",
+                "Tue": "10:00 - 20:00",
+                "Wed": "10:00 - 20:00",
+                "Sat": "10:00 - 18:00",
+                "Fri": "10:00 - 20:00",
+                "Mon": "10:00 - 20:00",
+                "Sun": "10:00 - 18:00"
+            },
+            "todayOpeningHours": {
+                "Idag": "10:00 - 20:00"
+            },
+            "specialOpeningHours": [
+                {
+                    "name": "lör - sön",
+                    "date": "16 dec",
+                    "hours": "10:00 - 20:00"
+                },
+                {
+                    "name": "lör - sön",
+                    "date": "17 dec",
+                    "hours": "10:00 - 20:00"
+                },
+                {
+                    "name": "Julafton",
+                    "date": "24 dec",
+                    "hours": "10:00 - 14:00"
+                },
+                {
+                    "name": "Juldagen",
+                    "date": "25 dec",
+                    "hours": "Stängt"
+                },
+                {
+                    "name": "Annandag jul",
+                    "date": "26 dec",
+                    "hours": "10:00 - 18:00"
+                },
+                {
+                    "name": "Nyårsafton",
+                    "date": "31 dec",
+                    "hours": "10:00 - 16:00"
+                },
+                {
+                    "name": "Nyårsdagen",
+                    "date": "1 jan",
+                    "hours": "Stängt"
+                }
+            ],
+            "id": "444",
+            "pickupInformation": "",
+            "friendlyName": "stockholm-bromma",
+            "friendlyUrl": "https://www.store.se/varuhus/stockholm-bromma"
+        },
+        {
+            "name": "Stockholm City",
+            "type": "StoreLocation",
+            "address2": "Box 484",
+            "postalCode": "101 29",
+            "city": "Stockholm",
+            "country": "Sverige",
+            "countryCode": "SE",
+            "phoneBusiness": "031-12 34 56",
+            "uuid": "p2ysHnMrEr0AAAFY2n4Szx1m",
+            "latitude": "59.332183",
+            "longitude": "18.061309",
+            "address": "Klarabergsgatan 50",
+            "coordinates": {
+                "latitude": 59.332183,
+                "longitude": 18.061309
+            },
+            "openingHours": {
+                "Thu": "10:00 - 20:00",
+                "Tue": "10:00 - 20:00",
+                "Wed": "10:00 - 20:00",
+                "Sat": "10:00 - 19:00",
+                "Fri": "10:00 - 20:00",
+                "Mon": "10:00 - 20:00",
+                "Sun": "11:00 - 19:00"
+            },
+            "todayOpeningHours": {
+                "Idag": "10:00 - 20:00"
+            },
+            "specialOpeningHours": [
+                {
+                    "name": "lör",
+                    "date": "2 dec",
+                    "hours": "10:00 - 20:00"
+                },
+                {
+                    "name": "lör",
+                    "date": "9 dec",
+                    "hours": "10:00 - 20:00"
+                },
+                {
+                    "name": "Torsdag",
+                    "date": "14 dec",
+                    "hours": "10:00 - 21:00"
+                },
+                {
+                    "name": "Fredag",
+                    "date": "15 dec",
+                    "hours": "10:00 - 21:00"
+                },
+                {
+                    "name": "lör",
+                    "date": "16 dec",
+                    "hours": "10:00 - 20:00"
+                },
+                {
+                    "name": "3:e Advent",
+                    "date": "17 dec",
+                    "hours": "11:00 - 20:00"
+                },
+                {
+                    "name": "Måndag",
+                    "date": "18 dec",
+                    "hours": "10:00 - 21:00"
+                },
+                {
+                    "name": "Tisdag",
+                    "date": "19 dec",
+                    "hours": "10:00 - 21:00"
+                },
+                {
+                    "name": "Onsdag",
+                    "date": "20 dec",
+                    "hours": "10:00 - 21:00"
+                },
+                {
+                    "name": "Torsdag",
+                    "date": "21 dec",
+                    "hours": "10:00 - 21:00"
+                },
+                {
+                    "name": "Fredag",
+                    "date": "22 dec",
+                    "hours": "10:00 - 21:00"
+                },
+                {
+                    "name": "Lördag",
+                    "date": "23 dec",
+                    "hours": "10:00 - 20:00"
+                },
+                {
+                    "name": "Julafton",
+                    "date": "24 dec",
+                    "hours": "10:00 - 16:00"
+                },
+                {
+                    "name": "Juldagen",
+                    "date": "25 dec",
+                    "hours": "Stängt"
+                },
+                {
+                    "name": "Annandag jul",
+                    "date": "26 dec",
+                    "hours": "09:00 - 19:00"
+                },
+                {
+                    "name": "Nyårsafton",
+                    "date": "31 dec",
+                    "hours": "10:00 - 17:00"
+                },
+                {
+                    "name": "Nyårsafton",
+                    "date": "1 jan",
+                    "hours": "Stängt"
+                }
+            ],
+            "id": "320",
+            "pickupInformation": "",
+            "friendlyName": "stockholm-city",
+            "friendlyUrl": "https://www.store.se/varuhus/stockholm-city"
+        },
+        {
+            "name": "Stockholm Farsta",
+            "type": "StoreLocation",
+            "address2": "Farsta Plan 25",
+            "postalCode": "123 47",
+            "city": "Farsta",
+            "country": "Sverige",
+            "countryCode": "SE",
+            "phoneBusiness": "031-12 34 56",
+            "uuid": "4CasHnMrsPUAAAFYFscSzx1m",
+            "latitude": "59.249877",
+            "longitude": "18.095877",
+            "address": "Farsta Plan 25",
+            "coordinates": {
+                "latitude": 59.249877,
+                "longitude": 18.095877
+            },
+            "openingHours": {
+                "Thu": "10:00 - 20:00",
+                "Tue": "10:00 - 20:00",
+                "Wed": "10:00 - 20:00",
+                "Sat": "10:00 - 18:00",
+                "Fri": "10:00 - 20:00",
+                "Mon": "10:00 - 20:00",
+                "Sun": "11:00 - 17:00"
+            },
+            "todayOpeningHours": {
+                "Idag": "10:00 - 20:00"
+            },
+            "specialOpeningHours": [
+                {
+                    "name": "Julafton",
+                    "date": "24 dec",
+                    "hours": "10:00 - 14:00"
+                },
+                {
+                    "name": "Juldagen",
+                    "date": "25 dec",
+                    "hours": "Stängt"
+                },
+                {
+                    "name": "Annandag jul",
+                    "date": "26 dec",
+                    "hours": "11:00 - 17:00"
+                },
+                {
+                    "name": "Nyårsafton",
+                    "date": "31 dec",
+                    "hours": "10:00 - 15:00"
+                }
+            ],
+            "id": "443",
+            "pickupInformation": "",
+            "friendlyName": "stockholm-farsta",
+            "friendlyUrl": "https://www.store.se/varuhus/stockholm-farsta"
+        },
+        {
+            "name": "Stockholm Fridhemsplan",
+            "type": "StoreLocation",
+            "address2": "Drottningholmsv. 18",
+            "postalCode": "112 42",
+            "city": "Stockholm",
+            "country": "Sverige",
+            "countryCode": "SE",
+            "phoneBusiness": "031-12 34 56",
+            "uuid": "_ResHnMrb88AAAFYmaYSzx1m",
+            "latitude": "59.332401",
+            "longitude": "18.030174",
+            "address": "Drottningholmsv. 18",
+            "coordinates": {
+                "latitude": 59.332401,
+                "longitude": 18.030174
+            },
+            "openingHours": {
+                "Thu": "10:00 - 19:00",
+                "Tue": "10:00 - 19:00",
+                "Wed": "10:00 - 19:00",
+                "Sat": "10:00 - 18:00",
+                "Fri": "10:00 - 19:00",
+                "Mon": "10:00 - 19:00",
+                "Sun": "11:00 - 18:00"
+            },
+            "todayOpeningHours": {
+                "Idag": "10:00 - 19:00"
+            },
+            "specialOpeningHours": [
+                {
+                    "name": "Julveckan",
+                    "date": "23 dec",
+                    "hours": "10:00 - 19:00"
+                },
+                {
+                    "name": "Julafton",
+                    "date": "24 dec",
+                    "hours": "10:00 - 14:00"
+                },
+                {
+                    "name": "Juldagen",
+                    "date": "25 dec",
+                    "hours": "Stängt"
+                },
+                {
+                    "name": "Annandag jul",
+                    "date": "26 dec",
+                    "hours": "11:00 - 18:00"
+                },
+                {
+                    "name": "Nyårsafton",
+                    "date": "31 dec",
+                    "hours": "10:00 - 16:00"
+                },
+                {
+                    "name": "Nyårsdagen",
+                    "date": "1 jan",
+                    "hours": "Stängt"
+                },
+                {
+                    "name": "Trettondagen",
+                    "date": "6 jan",
+                    "hours": "11:00 - 17:00"
+                },
+                {
+                    "name": "Långfredag",
+                    "date": "29 mar",
+                    "hours": "11:00 - 17:00"
+                },
+                {
+                    "name": "Påskafton",
+                    "date": "30 mar",
+                    "hours": "11:00 - 17:00"
+                },
+                {
+                    "name": "Påskdagen",
+                    "date": "31 mar",
+                    "hours": "11:00 - 17:00"
+                },
+                {
+                    "name": "Annandag Påsk",
+                    "date": "1 apr",
+                    "hours": "11:00 - 17:00"
+                },
+                {
+                    "name": "Valborgsmässoafton",
+                    "date": "30 apr",
+                    "hours": "11:00 - 17:00"
+                },
+                {
+                    "name": "1:a Maj",
+                    "date": "1 maj",
+                    "hours": "11:00 - 16:00"
+                },
+                {
+                    "name": "Kristi himmelsfärdsdag",
+                    "date": "9 maj",
+                    "hours": "11:00 - 17:00"
+                },
+                {
+                    "name": "Sveriges nationaldag",
+                    "date": "6 jun",
+                    "hours": "11:00 - 17:00"
+                }
+            ],
+            "id": "410",
+            "pickupInformation": "",
+            "friendlyName": "stockholm-fridhemsplan",
+            "friendlyUrl": "https://www.store.se/varuhus/stockholm-fridhemsplan"
+        },
+        {
+            "name": "Stockholm Mall of Scandinavia",
+            "type": "StoreLocation",
+            "address2": "Råsta Strandväg 19 A",
+            "postalCode": "169 79",
+            "city": "SOLNA",
+            "country": "Sverige",
+            "countryCode": "SE",
+            "phoneBusiness": "031-12 34 56",
+            "uuid": "RtKsHnMrNNAAAAFYBLkSzx1m",
+            "latitude": "59.370278",
+            "longitude": "18.003333",
+            "address": "Stjärntorget 2",
+            "coordinates": {
+                "latitude": 59.370278,
+                "longitude": 18.003333
+            },
+            "openingHours": {
+                "Thu": "10:00 - 21:00",
+                "Tue": "10:00 - 21:00",
+                "Wed": "10:00 - 21:00",
+                "Sat": "10:00 - 21:00",
+                "Fri": "10:00 - 21:00",
+                "Mon": "10:00 - 21:00",
+                "Sun": "10:00 - 21:00"
+            },
+            "todayOpeningHours": {
+                "Idag": "10:00 - 21:00"
+            },
+            "specialOpeningHours": [],
+            "id": "421",
+            "pickupInformation": "",
+            "friendlyName": "stockholm-mall-of-scandinavia",
+            "friendlyUrl": "https://www.store.se/varuhus/stockholm-mall-of-scandinavia"
+        },
+        {
+            "name": "Stockholm Mörby",
+            "type": "StoreLocation",
+            "address2": "Mörby Centrum",
+            "postalCode": "182 31",
+            "city": "Danderyd",
+            "country": "Sverige",
+            "countryCode": "SE",
+            "phoneBusiness": "031-12 34 56",
+            "uuid": "eOusHnMr5zwAAAFYraESzxzB",
+            "latitude": "59.39676",
+            "longitude": "18.036761",
+            "address": "Mörby Centrum",
+            "coordinates": {
+                "latitude": 59.39676,
+                "longitude": 18.036761
+            },
+            "openingHours": {
+                "Thu": "10:00 - 19:00",
+                "Tue": "10:00 - 19:00",
+                "Wed": "10:00 - 19:00",
+                "Sat": "10:00 - 17:00",
+                "Fri": "10:00 - 19:00",
+                "Mon": "10:00 - 19:00",
+                "Sun": "11:00 - 17:00"
+            },
+            "todayOpeningHours": {
+                "Idag": "10:00 - 19:00"
+            },
+            "specialOpeningHours": [
+                {
+                    "name": "Julafton",
+                    "date": "24 dec",
+                    "hours": "10:00 - 14:00"
+                },
+                {
+                    "name": "Juldagen",
+                    "date": "25 dec",
+                    "hours": "Stängt"
+                },
+                {
+                    "name": "Annandag jul",
+                    "date": "26 dec",
+                    "hours": "11:00 - 17:00"
+                },
+                {
+                    "name": "Nyårsafton",
+                    "date": "31 dec",
+                    "hours": "10:00 - 16:00"
+                },
+                {
+                    "name": "Nyårsdagen",
+                    "date": "1 jan",
+                    "hours": "Stängt"
+                },
+                {
+                    "name": "Trettondagen",
+                    "date": "6 jan",
+                    "hours": "11:00 - 17:00"
+                }
+            ],
+            "id": "449",
+            "pickupInformation": "",
+            "friendlyName": "stockholm-morby",
+            "friendlyUrl": "https://www.store.se/varuhus/stockholm-morby"
+        },
+        {
+            "name": "Stockholm Odenplan",
+            "type": "StoreLocation",
+            "address2": "Odengatan 71-73",
+            "postalCode": "113 22",
+            "city": "Stockholm",
+            "country": "Sverige",
+            "countryCode": "SE",
+            "phoneBusiness": "031-12 34 56",
+            "uuid": "IkGsHnMrafMAAAFYQ6ISzxzB",
+            "latitude": "59.342743",
+            "longitude": "18.050816",
+            "address": "Odenplan",
+            "coordinates": {
+                "latitude": 59.342743,
+                "longitude": 18.050816
+            },
+            "openingHours": {
+                "Thu": "10:00 - 19:00",
+                "Tue": "10:00 - 19:00",
+                "Wed": "10:00 - 19:00",
+                "Sat": "10:00 - 18:00",
+                "Fri": "10:00 - 19:00",
+                "Mon": "10:00 - 19:00",
+                "Sun": "11:00 - 17:00"
+            },
+            "todayOpeningHours": {
+                "Idag": "10:00 - 19:00"
+            },
+            "specialOpeningHours": [
+                {
+                    "name": "lör - sön",
+                    "date": "23 dec",
+                    "hours": "10:00 - 20:00"
+                },
+                {
+                    "name": "Julafton",
+                    "date": "24 dec",
+                    "hours": "10:00 - 14:00"
+                },
+                {
+                    "name": "Juldagen",
+                    "date": "25 dec",
+                    "hours": "Stängt"
+                },
+                {
+                    "name": "Annandag jul",
+                    "date": "26 dec",
+                    "hours": "11:00 - 17:00"
+                },
+                {
+                    "name": "Nyårsafton",
+                    "date": "31 dec",
+                    "hours": "11:00 - 16:00"
+                }
+            ],
+            "id": "504",
+            "pickupInformation": "",
+            "friendlyName": "stockholm-odenplan",
+            "friendlyUrl": "https://www.store.se/varuhus/stockholm-odenplan"
+        },
+        {
+            "name": "Stockholm Sickla",
+            "type": "StoreLocation",
+            "address2": "Järnvägsgatan 5",
+            "postalCode": "131 34",
+            "city": "Nacka",
+            "country": "Sverige",
+            "countryCode": "SE",
+            "phoneBusiness": "031-12 34 56",
+            "uuid": "8tasHnMrf84AAAFYN8ASzx1m",
+            "latitude": "59.306004",
+            "longitude": "18.121669",
+            "address": "Sickla Galleria, Simbag 16",
+            "coordinates": {
+                "latitude": 59.306004,
+                "longitude": 18.121669
+            },
+            "openingHours": {
+                "Thu": "10:00 - 20:00",
+                "Tue": "10:00 - 20:00",
+                "Wed": "10:00 - 20:00",
+                "Sat": "10:00 - 18:00",
+                "Fri": "10:00 - 20:00",
+                "Mon": "10:00 - 20:00",
+                "Sun": "11:00 - 17:00"
+            },
+            "todayOpeningHours": {
+                "Idag": "10:00 - 20:00"
+            },
+            "specialOpeningHours": [
+                {
+                    "name": "Julafton",
+                    "date": "24 dec",
+                    "hours": "10:00 - 14:00"
+                },
+                {
+                    "name": "Juldagen",
+                    "date": "25 dec",
+                    "hours": "Stängt"
+                },
+                {
+                    "name": "Annandag jul",
+                    "date": "26 dec",
+                    "hours": "11:00 - 17:00"
+                },
+                {
+                    "name": "Nyårsafton",
+                    "date": "31 dec",
+                    "hours": "10:00 - 16:00"
+                },
+                {
+                    "name": "Nyårsdagen",
+                    "date": "1 jan",
+                    "hours": "Stängt"
+                },
+                {
+                    "name": "Trettondagsafton",
+                    "date": "5 jan",
+                    "hours": "10:00 - 18:00"
+                },
+                {
+                    "name": "Trettondagen",
+                    "date": "6 jan",
+                    "hours": "11:00 - 17:00"
+                },
+                {
+                    "name": "Långfredag",
+                    "date": "29 mar",
+                    "hours": "11:00 - 17:00"
+                },
+                {
+                    "name": "Påskafton",
+                    "date": "30 mar",
+                    "hours": "10:00 - 18:00"
+                },
+                {
+                    "name": "Påskdagen",
+                    "date": "31 mar",
+                    "hours": "11:00 - 17:00"
+                },
+                {
+                    "name": "Annandag Påsk",
+                    "date": "1 apr",
+                    "hours": "11:00 - 17:00"
+                },
+                {
+                    "name": "Valborgsmässoafton",
+                    "date": "30 apr",
+                    "hours": "10:00 - 18:00"
+                },
+                {
+                    "name": "1:a Maj",
+                    "date": "1 maj",
+                    "hours": "11:00 - 17:00"
+                },
+                {
+                    "name": "Kristi himmelsfärdsdag",
+                    "date": "9 maj",
+                    "hours": "11:00 - 17:00"
+                },
+                {
+                    "name": "Pingstafton",
+                    "date": "18 maj",
+                    "hours": "10:00 - 18:00"
+                },
+                {
+                    "name": "Pingstdagen",
+                    "date": "19 maj",
+                    "hours": "11:00 - 17:00"
+                },
+                {
+                    "name": "Sveriges nationaldag",
+                    "date": "6 jun",
+                    "hours": "11:00 - 17:00"
+                },
+                {
+                    "name": "Midsommarafton",
+                    "date": "21 jun",
+                    "hours": "Stängt"
+                },
+                {
+                    "name": "Midsommardagen",
+                    "date": "22 jun",
+                    "hours": "Stängt"
+                },
+                {
+                    "name": "Alla Helgons Dag",
+                    "date": "1 nov",
+                    "hours": "10:00 - 18:00"
+                },
+                {
+                    "name": "Alla Helgons Dag",
+                    "date": "2 nov",
+                    "hours": "11:00 - 17:00"
+                },
+                {
+                    "name": "Långlördag",
+                    "date": "21 dec",
+                    "hours": "10:00 - 19:00"
+                },
+                {
+                    "name": "sön",
+                    "date": "22 dec",
+                    "hours": "10:00 - 19:00"
+                },
+                {
+                    "name": "Julafton",
+                    "date": "24 dec",
+                    "hours": "10:00 - 14:00"
+                },
+                {
+                    "name": "Juldagen",
+                    "date": "25 dec",
+                    "hours": "Stängt"
+                },
+                {
+                    "name": "Annandag jul",
+                    "date": "26 dec",
+                    "hours": "11:00 - 17:00"
+                },
+                {
+                    "name": "Nyårsafton",
+                    "date": "31 dec",
+                    "hours": "10:00 - 16:00"
+                }
+            ],
+            "id": "431",
+            "pickupInformation": "",
+            "friendlyName": "stockholm-sickla",
+            "friendlyUrl": "https://www.store.se/varuhus/stockholm-sickla"
+        },
+        {
+            "name": "Stockholm Skanstull",
+            "type": "StoreLocation",
+            "address2": "Skansbrogatan 5",
+            "postalCode": "118 60",
+            "city": "Stockholm",
+            "country": "Sverige",
+            "countryCode": "SE",
+            "phoneBusiness": "031-12 34 56",
+            "uuid": "JnCsHnMrPj8AAAFY4H4Szx1m",
+            "latitude": "59.307603",
+            "longitude": "18.076458",
+            "address": "Ringvägen 100",
+            "coordinates": {
+                "latitude": 59.307603,
+                "longitude": 18.076458
+            },
+            "openingHours": {
+                "Thu": "10:00 - 20:00",
+                "Tue": "10:00 - 20:00",
+                "Wed": "10:00 - 20:00",
+                "Sat": "10:00 - 18:00",
+                "Fri": "10:00 - 20:00",
+                "Mon": "10:00 - 20:00",
+                "Sun": "11:00 - 18:00"
+            },
+            "todayOpeningHours": {
+                "Idag": "10:00 - 20:00"
+            },
+            "specialOpeningHours": [
+                {
+                    "name": "Långlördag",
+                    "date": "25 nov",
+                    "hours": "10:00 - 19:00"
+                },
+                {
+                    "name": "1:a Advent",
+                    "date": "3 dec",
+                    "hours": "11:00 - 18:00"
+                },
+                {
+                    "name": "Långlördag",
+                    "date": "16 dec",
+                    "hours": "10:00 - 19:00"
+                },
+                {
+                    "name": "3:e Advent",
+                    "date": "17 dec",
+                    "hours": "10:00 - 19:00"
+                },
+                {
+                    "name": "Julafton",
+                    "date": "24 dec",
+                    "hours": "10:00 - 14:00"
+                },
+                {
+                    "name": "Juldagen",
+                    "date": "25 dec",
+                    "hours": "Stängt"
+                },
+                {
+                    "name": "Annandag jul",
+                    "date": "26 dec",
+                    "hours": "11:00 - 18:00"
+                },
+                {
+                    "name": "Nyårsafton",
+                    "date": "31 dec",
+                    "hours": "11:00 - 16:00"
+                }
+            ],
+            "id": "310",
+            "pickupInformation": "",
+            "friendlyName": "stockholm-skanstull",
+            "friendlyUrl": "https://www.store.se/varuhus/stockholm-skanstull"
+        },
+        {
+            "name": "Stockholm Täby",
+            "type": "StoreLocation",
+            "address2": "Täbytorg 2",
+            "postalCode": "183 34",
+            "city": "Täby",
+            "country": "Sverige",
+            "countryCode": "SE",
+            "phoneBusiness": "031-12 34 56",
+            "uuid": "3BysHnMrgY0AAAFYWtYSzx1m",
+            "latitude": "59.444508",
+            "longitude": "18.075857",
+            "address": "Täbytorg 2",
+            "coordinates": {
+                "latitude": 59.444508,
+                "longitude": 18.075857
+            },
+            "openingHours": {
+                "Thu": "10:00 - 20:00",
+                "Tue": "10:00 - 20:00",
+                "Wed": "10:00 - 20:00",
+                "Sat": "10:00 - 18:00",
+                "Fri": "10:00 - 20:00",
+                "Mon": "10:00 - 20:00",
+                "Sun": "10:00 - 18:00"
+            },
+            "todayOpeningHours": {
+                "Idag": "10:00 - 20:00"
+            },
+            "specialOpeningHours": [],
+            "id": "478",
+            "pickupInformation": "",
+            "friendlyName": "stockholm-taby",
+            "friendlyUrl": "https://www.store.se/varuhus/stockholm-taby"
+        },
+        {
+            "name": "Stockholm Vällingby",
+            "type": "StoreLocation",
+            "address2": "Pajalagatan 43",
+            "postalCode": "162 65",
+            "city": "Vällingby",
+            "country": "Sverige",
+            "countryCode": "SE",
+            "phoneBusiness": "031-12 34 56",
+            "uuid": "F0usHnMrirsAAAFYULESzx1m",
+            "latitude": "59.362977",
+            "longitude": "17.873345",
+            "address": "Pajalagatan 43",
+            "coordinates": {
+                "latitude": 59.362977,
+                "longitude": 17.873345
+            },
+            "openingHours": {
+                "Thu": "10:00 - 20:00",
+                "Tue": "10:00 - 20:00",
+                "Wed": "10:00 - 20:00",
+                "Sat": "10:00 - 18:00",
+                "Fri": "10:00 - 20:00",
+                "Mon": "10:00 - 20:00",
+                "Sun": "11:00 - 18:00"
+            },
+            "todayOpeningHours": {
+                "Idag": "10:00 - 20:00"
+            },
+            "specialOpeningHours": [
+                {
+                    "name": "2 Dagar innan julafton",
+                    "date": "22 dec",
+                    "hours": "10:00 - 21:00"
+                },
+                {
+                    "name": "Dagen före julafton",
+                    "date": "23 dec",
+                    "hours": "10:00 - 19:00"
+                },
+                {
+                    "name": "Julafton",
+                    "date": "24 dec",
+                    "hours": "10:00 - 14:00"
+                },
+                {
+                    "name": "Juldagen",
+                    "date": "25 dec",
+                    "hours": "Stängt"
+                },
+                {
+                    "name": "Annandag jul",
+                    "date": "26 dec",
+                    "hours": "11:00 - 18:00"
+                },
+                {
+                    "name": "Nyårsafton",
+                    "date": "31 dec",
+                    "hours": "11:00 - 16:00"
+                },
+                {
+                    "name": "Nyårsdagen",
+                    "date": "1 jan",
+                    "hours": "Stängt"
+                },
+                {
+                    "name": "Trettondagsafton",
+                    "date": "5 jan",
+                    "hours": "10:00 - 20:00"
+                },
+                {
+                    "name": "Trettondagen",
+                    "date": "6 jan",
+                    "hours": "11:00 - 18:00"
+                }
+            ],
+            "id": "423",
+            "pickupInformation": "",
+            "friendlyName": "stockholm-vallingby",
+            "friendlyUrl": "https://www.store.se/varuhus/stockholm-vallingby"
+        },
+        {
+            "name": "Stockholm Östermalmstorg",
+            "type": "StoreLocation",
+            "address2": "Box 5117",
+            "postalCode": "102 43",
+            "city": "Stockholm",
+            "country": "Sverige",
+            "countryCode": "SE",
+            "phoneBusiness": "031-12 34 56",
+            "uuid": "tvusHnMrM2UAAAFYvJ0Szx1m",
+            "latitude": "59.336158",
+            "longitude": "18.07951",
+            "address": "Östermalmstorg 1-3",
+            "coordinates": {
+                "latitude": 59.336158,
+                "longitude": 18.07951
+            },
+            "openingHours": {
+                "Thu": "10:00 - 19:00",
+                "Tue": "10:00 - 19:00",
+                "Wed": "10:00 - 19:00",
+                "Sat": "10:00 - 18:00",
+                "Fri": "10:00 - 19:00",
+                "Mon": "10:00 - 19:00",
+                "Sun": "12:00 - 17:00"
+            },
+            "todayOpeningHours": {
+                "Idag": "10:00 - 19:00"
+            },
+            "specialOpeningHours": [
+                {
+                    "name": "Julafton",
+                    "date": "24 dec",
+                    "hours": "10:00 - 14:00"
+                },
+                {
+                    "name": "Juldagen",
+                    "date": "25 dec",
+                    "hours": "Stängt"
+                },
+                {
+                    "name": "Annandag jul",
+                    "date": "26 dec",
+                    "hours": "10:00 - 18:00"
+                },
+                {
+                    "name": "Nyårsafton",
+                    "date": "31 dec",
+                    "hours": "10:00 - 16:00"
+                },
+                {
+                    "name": "Nyårsdagen",
+                    "date": "1 jan",
+                    "hours": "Stängt"
+                }
+            ],
+            "id": "400",
+            "pickupInformation": "",
+            "friendlyName": "stockholm-ostermalmstorg",
+            "friendlyUrl": "https://www.store.se/varuhus/stockholm-ostermalmstorg"
+        },
+        {
+            "name": "Sundsvall",
+            "type": "StoreLocation",
+            "address2": "Storgatan 30-32",
+            "postalCode": "852 30",
+            "city": "Sundsvall",
+            "country": "Sverige",
+            "countryCode": "SE",
+            "phoneBusiness": "031-12 34 56",
+            "uuid": "xa2sHnMrPI8AAAFYkYoSzx1m",
+            "latitude": "62.391473",
+            "longitude": "17.305784",
+            "address": "Storgatan 30-32",
+            "coordinates": {
+                "latitude": 62.391473,
+                "longitude": 17.305784
+            },
+            "openingHours": {
+                "Thu": "10:00 - 19:00",
+                "Tue": "10:00 - 19:00",
+                "Wed": "10:00 - 19:00",
+                "Sat": "10:00 - 17:00",
+                "Fri": "10:00 - 19:00",
+                "Mon": "10:00 - 19:00",
+                "Sun": "12:00 - 16:00"
+            },
+            "todayOpeningHours": {
+                "Idag": "10:00 - 19:00"
+            },
+            "specialOpeningHours": [
+                {
+                    "name": "Julafton",
+                    "date": "24 dec",
+                    "hours": "10:00 - 14:00"
+                },
+                {
+                    "name": "Juldagen",
+                    "date": "25 dec",
+                    "hours": "Stängt"
+                },
+                {
+                    "name": "Annandag jul",
+                    "date": "26 dec",
+                    "hours": "10:00 - 17:00"
+                },
+                {
+                    "name": "Nyårsafton",
+                    "date": "31 dec",
+                    "hours": "10:00 - 15:00"
+                },
+                {
+                    "name": "Nyårsdagen",
+                    "date": "1 jan",
+                    "hours": "Stängt"
+                },
+                {
+                    "name": "Nyårsdagen",
+                    "date": "1 jan",
+                    "hours": "Stängt"
+                },
+                {
+                    "name": "Trettondagsafton",
+                    "date": "5 jan",
+                    "hours": "10:00 - 17:00"
+                },
+                {
+                    "name": "Trettondagen",
+                    "date": "6 jan",
+                    "hours": "12:00 - 16:00"
+                },
+                {
+                    "name": "Skärtorsdag",
+                    "date": "28 mar",
+                    "hours": "10:00 - 17:00"
+                },
+                {
+                    "name": "Långfredag",
+                    "date": "29 mar",
+                    "hours": "Stängt"
+                },
+                {
+                    "name": "Påskafton",
+                    "date": "30 mar",
+                    "hours": "10:00 - 17:00"
+                },
+                {
+                    "name": "Påskdagen",
+                    "date": "31 mar",
+                    "hours": "12:00 - 16:00"
+                },
+                {
+                    "name": "Annandag Påsk",
+                    "date": "1 apr",
+                    "hours": "12:00 - 16:00"
+                },
+                {
+                    "name": "1:a Maj",
+                    "date": "1 maj",
+                    "hours": "12:00 - 16:00"
+                },
+                {
+                    "name": "kristihimmelsfärdsafton",
+                    "date": "8 maj",
+                    "hours": "10:00 - 17:00"
+                },
+                {
+                    "name": "Kristi himmelsfärdsdag",
+                    "date": "9 maj",
+                    "hours": "12:00 - 16:00"
+                },
+                {
+                    "name": "Sveriges nationaldag",
+                    "date": "6 jun",
+                    "hours": "10:00 - 17:00"
+                },
+                {
+                    "name": "Midsommarafton",
+                    "date": "21 jun",
+                    "hours": "Stängt"
+                },
+                {
+                    "name": "Midsommardagen",
+                    "date": "22 jun",
+                    "hours": "Stängt"
+                }
+            ],
+            "id": "370",
+            "pickupInformation": "",
+            "friendlyName": "sundsvall",
+            "friendlyUrl": "https://www.store.se/varuhus/sundsvall"
+        },
+        {
+            "name": "Umeå",
+            "type": "StoreLocation",
+            "address2": "Kungsgatan 58",
+            "postalCode": "903 26",
+            "city": "Umeå",
+            "country": "Sverige",
+            "countryCode": "SE",
+            "phoneBusiness": "031-12 34 56",
+            "uuid": "t9OsHnMrfHoAAAFYdooSzx1m",
+            "latitude": "63.8255",
+            "longitude": "20.264883",
+            "address": "Kungsgatan 56-58",
+            "coordinates": {
+                "latitude": 63.8255,
+                "longitude": 20.264883
+            },
+            "openingHours": {
+                "Thu": "10:00 - 19:00",
+                "Tue": "10:00 - 19:00",
+                "Wed": "10:00 - 19:00",
+                "Sat": "10:00 - 17:00",
+                "Fri": "10:00 - 19:00",
+                "Mon": "10:00 - 19:00",
+                "Sun": "12:00 - 16:00"
+            },
+            "todayOpeningHours": {
+                "Idag": "10:00 - 19:00"
+            },
+            "specialOpeningHours": [
+                {
+                    "name": "lör - sön",
+                    "date": "3 dec",
+                    "hours": "12:00 - 17:00"
+                },
+                {
+                    "name": "lör - sön",
+                    "date": "10 dec",
+                    "hours": "12:00 - 17:00"
+                },
+                {
+                    "name": "lör - sön",
+                    "date": "17 dec",
+                    "hours": "12:00 - 17:00"
+                },
+                {
+                    "name": "lör - sön",
+                    "date": "24 dec",
+                    "hours": "10:00 - 14:00"
+                },
+                {
+                    "name": "mån - fre",
+                    "date": "25 dec",
+                    "hours": "Stängt"
+                },
+                {
+                    "name": "mån - fre",
+                    "date": "26 dec",
+                    "hours": "10:00 - 17:00"
+                },
+                {
+                    "name": "lör - sön",
+                    "date": "31 dec",
+                    "hours": "10:00 - 14:00"
+                },
+                {
+                    "name": "mån - fre",
+                    "date": "1 jan",
+                    "hours": "Stängt"
+                },
+                {
+                    "name": "mån - fre",
+                    "date": "6 jan",
+                    "hours": "12:00 - 16:00"
+                }
+            ],
+            "id": "365",
+            "pickupInformation": "",
+            "friendlyName": "umea",
+            "friendlyUrl": "https://www.store.se/varuhus/umea"
+        },
+        {
+            "name": "Uppsala",
+            "type": "StoreLocation",
+            "address2": "Dragarbrunnsgatan 41",
+            "postalCode": "753 20",
+            "city": "Uppsala",
+            "country": "Sverige",
+            "countryCode": "SE",
+            "phoneBusiness": "031-12 34 56",
+            "uuid": ".RisHnMrA.wAAAFYTaUSzx1m",
+            "latitude": "59.858534",
+            "longitude": "17.639537",
+            "address": "Stora Torget 5",
+            "coordinates": {
+                "latitude": 59.858534,
+                "longitude": 17.639537
+            },
+            "openingHours": {
+                "Thu": "10:00 - 19:00",
+                "Tue": "10:00 - 19:00",
+                "Wed": "10:00 - 19:00",
+                "Sat": "10:00 - 18:00",
+                "Fri": "10:00 - 19:00",
+                "Mon": "10:00 - 19:00",
+                "Sun": "11:00 - 18:00"
+            },
+            "todayOpeningHours": {
+                "Idag": "10:00 - 19:00"
+            },
+            "specialOpeningHours": [
+                {
+                    "name": "Julafton",
+                    "date": "24 dec",
+                    "hours": "11:00 - 14:00"
+                },
+                {
+                    "name": "Juldagen",
+                    "date": "25 dec",
+                    "hours": "Stängt"
+                },
+                {
+                    "name": "Annandag jul",
+                    "date": "26 dec",
+                    "hours": "11:00 - 18:00"
+                },
+                {
+                    "name": "Nyårsafton",
+                    "date": "31 dec",
+                    "hours": "11:00 - 18:00"
+                },
+                {
+                    "name": "Nyårsdagen",
+                    "date": "1 jan",
+                    "hours": "Stängt"
+                },
+                {
+                    "name": "Trettondagsafton",
+                    "date": "5 jan",
+                    "hours": "10:00 - 18:00"
+                },
+                {
+                    "name": "Trettondagen",
+                    "date": "6 jan",
+                    "hours": "11:00 - 18:00"
+                }
+            ],
+            "id": "407",
+            "pickupInformation": "",
+            "friendlyName": "uppsala",
+            "friendlyUrl": "https://www.store.se/varuhus/uppsala"
+        },
+        {
+            "name": "Visby",
+            "type": "StoreLocation",
+            "address2": "Skolportsgatan 3",
+            "postalCode": "621 45",
+            "city": "Visby",
+            "country": "Sverige",
+            "countryCode": "SE",
+            "phoneBusiness": "031-12 34 56",
+            "uuid": "SV2sHnMrBgMAAAFYANUSzx1m",
+            "latitude": "57.637913",
+            "longitude": "18.299553",
+            "address": "Östervägen 6",
+            "coordinates": {
+                "latitude": 57.637913,
+                "longitude": 18.299553
+            },
+            "openingHours": {
+                "Thu": "10:00 - 18:00",
+                "Tue": "10:00 - 18:00",
+                "Wed": "10:00 - 18:00",
+                "Sat": "10:00 - 16:00",
+                "Fri": "10:00 - 18:00",
+                "Mon": "10:00 - 18:00",
+                "Sun": "11:00 - 15:00"
+            },
+            "todayOpeningHours": {
+                "Idag": "10:00 - 18:00"
+            },
+            "specialOpeningHours": [
+                {
+                    "name": "1:a Advent",
+                    "date": "3 dec",
+                    "hours": "11:00 - 16:00"
+                },
+                {
+                    "name": "Långlördag",
+                    "date": "23 dec",
+                    "hours": "10:00 - 17:00"
+                },
+                {
+                    "name": "Julafton",
+                    "date": "24 dec",
+                    "hours": "10:00 - 13:00"
+                },
+                {
+                    "name": "Juldagen",
+                    "date": "25 dec",
+                    "hours": "11:00 - 16:00"
+                },
+                {
+                    "name": "Annandag jul",
+                    "date": "26 dec",
+                    "hours": "11:00 - 16:00"
+                }
+            ],
+            "id": "474",
+            "pickupInformation": "",
+            "friendlyName": "visby",
+            "friendlyUrl": "https://www.store.se/varuhus/visby"
+        },
+        {
+            "name": "Växjö",
+            "type": "StoreLocation",
+            "address2": "Storgatan 13",
+            "postalCode": "352 30",
+            "city": "Växjö",
+            "country": "Sverige",
+            "countryCode": "SE",
+            "phoneBusiness": "031-12 34 56",
+            "uuid": "0KSsHnMrVrwAAAFYb6ISzxzB",
+            "latitude": "56.878706",
+            "longitude": "14.805858",
+            "address": "Storgatan 13",
+            "coordinates": {
+                "latitude": 56.878706,
+                "longitude": 14.805858
+            },
+            "openingHours": {
+                "Thu": "10:00 - 18:00",
+                "Tue": "10:00 - 18:00",
+                "Wed": "10:00 - 18:00",
+                "Sat": "10:00 - 16:00",
+                "Fri": "10:00 - 18:00",
+                "Mon": "10:00 - 18:00",
+                "Sun": "12:00 - 16:00"
+            },
+            "todayOpeningHours": {
+                "Idag": "10:00 - 18:00"
+            },
+            "specialOpeningHours": [],
+            "id": "519",
+            "pickupInformation": "",
+            "friendlyName": "vaxjo",
+            "friendlyUrl": "https://www.store.se/varuhus/vaxjo"
+        },
+        {
+            "name": "Örebro",
+            "type": "StoreLocation",
+            "address2": "Kungsgatan 20",
+            "postalCode": "702 11",
+            "city": "Örebro",
+            "country": "Sverige",
+            "countryCode": "SE",
+            "phoneBusiness": "031-12 34 56",
+            "uuid": "h5CsHnMrvKkAAAFY5H4Szx1m",
+            "latitude": "59.269971",
+            "longitude": "15.213468",
+            "address": "Våghustorget",
+            "coordinates": {
+                "latitude": 59.269971,
+                "longitude": 15.213468
+            },
+            "openingHours": {
+                "Thu": "10:00 - 19:00",
+                "Tue": "10:00 - 19:00",
+                "Wed": "10:00 - 19:00",
+                "Sat": "10:00 - 17:00",
+                "Fri": "10:00 - 19:00",
+                "Mon": "10:00 - 19:00",
+                "Sun": "11:00 - 17:00"
+            },
+            "todayOpeningHours": {
+                "Idag": "10:00 - 19:00"
+            },
+            "specialOpeningHours": [
+                {
+                    "name": "Julafton",
+                    "date": "24 dec",
+                    "hours": "10:00 - 14:00"
+                },
+                {
+                    "name": "Juldagen",
+                    "date": "25 dec",
+                    "hours": "Stängt"
+                },
+                {
+                    "name": "Annandag jul",
+                    "date": "26 dec",
+                    "hours": "10:00 - 17:00"
+                },
+                {
+                    "name": "Nyårsafton",
+                    "date": "31 dec",
+                    "hours": "10:00 - 14:00"
+                },
+                {
+                    "name": "Nyårsdagen",
+                    "date": "1 jan",
+                    "hours": "Stängt"
+                }
+            ],
+            "id": "360",
+            "pickupInformation": "",
+            "friendlyName": "orebro",
+            "friendlyUrl": "https://www.store.se/varuhus/orebro"
+        },
+        {
+            "name": "Östersund",
+            "type": "StoreLocation",
+            "address2": "Prästgatan 35",
+            "postalCode": "831 31",
+            "city": "Östersund",
+            "country": "Sverige",
+            "countryCode": "SE",
+            "phoneBusiness": "031-12 34 56",
+            "uuid": "mFOsHnMrbi0AAAFYAa0Szx1m",
+            "latitude": "63.177525",
+            "longitude": "14.637115",
+            "address": "Prästgatan 35",
+            "coordinates": {
+                "latitude": 63.177525,
+                "longitude": 14.637115
+            },
+            "openingHours": {
+                "Thu": "10:00 - 18:00",
+                "Tue": "10:00 - 18:00",
+                "Wed": "10:00 - 18:00",
+                "Sat": "10:00 - 16:00",
+                "Fri": "10:00 - 18:00",
+                "Mon": "10:00 - 18:00",
+                "Sun": "13:00 - 16:00"
+            },
+            "todayOpeningHours": {
+                "Idag": "10:00 - 18:00"
+            },
+            "specialOpeningHours": [
+                {
+                    "name": "sön",
+                    "date": "26 nov",
+                    "hours": "12:00 - 16:00"
+                },
+                {
+                    "name": "sön",
+                    "date": "3 dec",
+                    "hours": "12:00 - 16:00"
+                },
+                {
+                    "name": "sön",
+                    "date": "10 dec",
+                    "hours": "12:00 - 16:00"
+                },
+                {
+                    "name": "sön",
+                    "date": "17 dec",
+                    "hours": "12:00 - 16:00"
+                },
+                {
+                    "name": "Julöppet",
+                    "date": "21 dec",
+                    "hours": "10:00 - 20:00"
+                },
+                {
+                    "name": "Julafton",
+                    "date": "24 dec",
+                    "hours": "10:00 - 14:00"
+                },
+                {
+                    "name": "Juldagen",
+                    "date": "25 dec",
+                    "hours": "Stängt"
+                },
+                {
+                    "name": "Annandag jul",
+                    "date": "26 dec",
+                    "hours": "10:00 - 16:00"
+                },
+                {
+                    "name": "Nyårsafton",
+                    "date": "31 dec",
+                    "hours": "10:00 - 14:00"
+                },
+                {
+                    "name": "Nyårsdagen",
+                    "date": "1 jan",
+                    "hours": "Stängt"
+                }
+            ],
+            "id": "415",
+            "pickupInformation": "",
+            "friendlyName": "ostersund",
+            "friendlyUrl": "https://www.store.se/varuhus/ostersund"
+        }
+    ],
+    "type": "Stores"
+}
