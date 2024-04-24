@@ -1,0 +1,37 @@
+[
+    {
+        "last_four_digits": "1234",
+        "card_type": "Visa",
+        "expiration_date": "2026-12-01",
+        "cardholder_name": "John Doe",
+        "issuing_bank": "Bank of Nowhere"
+    },
+    {
+        "last_four_digits": "5678",
+        "card_type": "MasterCard",
+        "expiration_date": "2025-11-01",
+        "cardholder_name": "John Doe",
+        "issuing_bank": "Global Bank"
+    },
+    {
+        "last_four_digits": "9012",
+        "card_type": "American Express",
+        "expiration_date": "2024-10-01",
+        "cardholder_name": "John Doe",
+        "issuing_bank": "Amex Central"
+    },
+    {
+        "last_four_digits": "3456",
+        "card_type": "Discover",
+        "expiration_date": "2027-01-01",
+        "cardholder_name": "John Doe",
+        "issuing_bank": "Discover Best"
+    },
+    {
+        "last_four_digits": "7890",
+        "card_type": "Visa",
+        "expiration_date": "2023-01-01",
+        "cardholder_name": "John Doe",
+        "issuing_bank": "Bank of Nowhere"
+    }
+]
