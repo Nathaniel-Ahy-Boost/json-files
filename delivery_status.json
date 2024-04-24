@@ -15,7 +15,9 @@
             "weight": "0.2kg"
         }
     ],
-    "eta": "2026-04-30T15:00:00Z",
-    "scheduledArrival": "2026-04-30T12:00:00Z",
+    "expectedArrivalDate": "2026-05-01",
+    "expectedArrivalTime":"15:00",
+    "scheduledArrivalDate": "2026-05-01",
+    "scheduledArrivalTime":"15:00",
     "arrivalStatus": "late"
 }
