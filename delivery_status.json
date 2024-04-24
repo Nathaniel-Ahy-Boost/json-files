@@ -17,7 +17,7 @@
     ],
     "expectedArrivalDate": "2026-05-01",
     "expectedArrivalTime": "15:00",
-    "scheduledArrivalDate": "2026-05-01",
+    "scheduledArrivalDate": "2026-04-30",
     "scheduledArrivalTime": "15:00",
     "arrivalStatus": "late"
 }
