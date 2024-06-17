@@ -39,7 +39,7 @@
       "invoice_amount": 300.25,
       "bank_giro_number": "BG2026-001",
       "invoice_status": "Open",
-      "payment_type": "Direct Debit",
+      "payment_type": "Paper",
       "invoice_due_date": "2026-03-25",
       "invoice_type": "TV",
       "ocr_number": "OCR202600167890"
