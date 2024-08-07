@@ -70,7 +70,7 @@
       "bank_giro_number": "BG2024-011",
       "invoice_status": "Open",
       "payment_type": "Paper",
-      "invoice_due_date": "2024-05-28",
+      "invoice_due_date": "2024-08-28",
       "invoice_type": "Utilities",
       "ocr_number": "OCR202401121345"
     },
@@ -80,7 +80,7 @@
       "bank_giro_number": "BG2024-012",
       "invoice_status": "Open",
       "payment_type": "Direct Debit",
-      "invoice_due_date": "2024-05-28",
+      "invoice_due_date": "2024-08-28",
       "invoice_type": "Internet",
       "ocr_number": "OCR202401221345"
     },
@@ -90,7 +90,7 @@
       "bank_giro_number": "BG2024-013",
       "invoice_status": "Open",
       "payment_type": "Direct Debit",
-      "invoice_due_date": "2024-05-28",
+      "invoice_due_date": "2024-08-28",
       "invoice_type": "Mobile",
       "ocr_number": "OCR202401321345"
     }
