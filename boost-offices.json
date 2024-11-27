@@ -3,10 +3,11 @@
     {
       "country": "Norway",
       "city": "Stavanger",
+      "name": "boost.ai Stavanger",
       "address": "Grenseveien 21, 4313 Sandnes",
       "coordinates": { "latitude": 58.8477, "longitude": 5.7392 },
       "phone": "+47 12345678",
-      "email": "sandnes.employee@boost.ai",
+      "email": "stavanger.employee@boost.ai",
       "opening_hours": {
         "monday": "08:00-16:00",
         "tuesday": "08:00-16:00",
@@ -20,6 +21,7 @@
     {
       "country": "Sweden",
       "city": "Stockholm",
+      "name": "boost.ai Stockholm",
       "address": "Malmskillnadsgatan 44A, 111 57 Stockholm",
       "coordinates": { "latitude": 59.3293, "longitude": 18.0686 },
       "phone": "+46 12345678",
@@ -37,10 +39,11 @@
     {
       "country": "Denmark",
       "city": "Copenhagen",
+      "name": "boost.ai Copenhagen",
       "address": "Amager Strandvej 390-392, 2770 Kastrup",
       "coordinates": { "latitude": 55.6178, "longitude": 12.6561 },
       "phone": "+45 12345678",
-      "email": "kastrup.employee@boost.ai",
+      "email": "copenhagen.employee@boost.ai",
       "opening_hours": {
         "monday": "08:00-16:00",
         "tuesday": "08:00-16:00",
@@ -54,6 +57,7 @@
     {
       "country": "Finland",
       "city": "Helsinki",
+      "name": "boost.ai Helsinki",
       "address": "Sofiankatu 4 C, 00170 Helsinki",
       "coordinates": { "latitude": 60.1699, "longitude": 24.9384 },
       "phone": "+358 12345678",
@@ -71,6 +75,7 @@
     {
       "country": "United States",
       "city": "Boston",
+      "name": "boost.ai Boston",
       "address": "50 Milk Street, Boston, MA 02108",
       "coordinates": { "latitude": 42.3601, "longitude": -71.0589 },
       "phone": "+1 12345678",
@@ -88,6 +93,7 @@
     {
       "country": "United Kingdom",
       "city": "London",
+      "name": "boost.ai London",
       "address": "87A Worship Street, Shoreditch, London, EC2A 2BE",
       "coordinates": { "latitude": 51.5246, "longitude": -0.0855 },
       "phone": "+44 12345678",
