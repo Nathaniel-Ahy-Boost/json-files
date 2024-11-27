@@ -9,13 +9,13 @@
       "phone": "+47 12345678",
       "email": "stavanger.employee@boost.ai",
       "opening_hours": {
-        "monday": "08:00-16:00",
-        "tuesday": "08:00-16:00",
-        "wednesday": "08:00-16:00",
-        "thursday": "08:00-16:00",
-        "friday": "08:00-16:00",
-        "saturday": "Closed",
-        "sunday": "Closed"
+        "Monday": "08:00-16:00",
+        "Tuesday": "08:00-16:00",
+        "Wednesday": "08:00-16:00",
+        "Thursday": "08:00-16:00",
+        "Friday": "08:00-16:00",
+        "Saturday": "Closed",
+        "Sunday": "Closed"
       }
     },
     {
@@ -27,13 +27,13 @@
       "phone": "+46 12345678",
       "email": "stockholm.employee@boost.ai",
       "opening_hours": {
-        "monday": "08:00-16:00",
-        "tuesday": "08:00-16:00",
-        "wednesday": "08:00-16:00",
-        "thursday": "08:00-16:00",
-        "friday": "08:00-16:00",
-        "saturday": "Closed",
-        "sunday": "Closed"
+        "Monday": "08:00-16:00",
+        "Tuesday": "08:00-16:00",
+        "Wednesday": "08:00-16:00",
+        "Thursday": "08:00-16:00",
+        "Friday": "08:00-16:00",
+        "Saturday": "Closed",
+        "Sunday": "Closed"
       }
     },
     {
@@ -45,13 +45,13 @@
       "phone": "+45 12345678",
       "email": "copenhagen.employee@boost.ai",
       "opening_hours": {
-        "monday": "08:00-16:00",
-        "tuesday": "08:00-16:00",
-        "wednesday": "08:00-16:00",
-        "thursday": "08:00-16:00",
-        "friday": "08:00-16:00",
-        "saturday": "Closed",
-        "sunday": "Closed"
+        "Monday": "08:00-16:00",
+        "Tuesday": "08:00-16:00",
+        "Wednesday": "08:00-16:00",
+        "Thursday": "08:00-16:00",
+        "Friday": "08:00-16:00",
+        "Saturday": "Closed",
+        "Sunday": "Closed"
       }
     },
     {
@@ -63,13 +63,13 @@
       "phone": "+358 12345678",
       "email": "helsinki.employee@boost.ai",
       "opening_hours": {
-        "monday": "08:00-16:00",
-        "tuesday": "08:00-16:00",
-        "wednesday": "08:00-16:00",
-        "thursday": "08:00-16:00",
-        "friday": "08:00-16:00",
-        "saturday": "Closed",
-        "sunday": "Closed"
+        "Monday": "08:00-16:00",
+        "Tuesday": "08:00-16:00",
+        "Wednesday": "08:00-16:00",
+        "Thursday": "08:00-16:00",
+        "Friday": "08:00-16:00",
+        "Saturday": "Closed",
+        "Sunday": "Closed"
       }
     },
     {
@@ -81,13 +81,13 @@
       "phone": "+1 12345678",
       "email": "boston.employee@boost.ai",
       "opening_hours": {
-        "monday": "08:00-16:00",
-        "tuesday": "08:00-16:00",
-        "wednesday": "08:00-16:00",
-        "thursday": "08:00-16:00",
-        "friday": "08:00-16:00",
-        "saturday": "Closed",
-        "sunday": "Closed"
+        "Monday": "08:00-16:00",
+        "Tuesday": "08:00-16:00",
+        "Wednesday": "08:00-16:00",
+        "Thursday": "08:00-16:00",
+        "Friday": "08:00-16:00",
+        "Saturday": "Closed",
+        "Sunday": "Closed"
       }
     },
     {
@@ -99,13 +99,13 @@
       "phone": "+44 12345678",
       "email": "london.employee@boost.ai",
       "opening_hours": {
-        "monday": "08:00-16:00",
-        "tuesday": "08:00-16:00",
-        "wednesday": "08:00-16:00",
-        "thursday": "08:00-16:00",
-        "friday": "08:00-16:00",
-        "saturday": "Closed",
-        "sunday": "Closed"
+        "Monday": "08:00-16:00",
+        "Tuesday": "08:00-16:00",
+        "Wednesday": "08:00-16:00",
+        "Thursday": "08:00-16:00",
+        "Friday": "08:00-16:00",
+        "Saturday": "Closed",
+        "Sunday": "Closed"
       }
     }
   ]
