@@ -1,0 +1,24 @@
+[
+  {
+    "invoice_number": "INV2023001",
+    "invoice_amount": 100.50,
+    "bank_giro_number": "BG2023-001",
+    "invoice_status": "Paid",
+    "payment_type": "Direct Debit",
+    "invoice_due_date": "2023-04-15",
+    "invoice_type": "Broadband",
+    "region": "Sweden",
+    "ocr_number": "OCR202300112345"
+  },
+  {
+    "invoice_number": "INV2025001",
+    "invoice_amount": 180.00,
+    "bank_giro_number": "BG2025-001",
+    "invoice_status": "Open",
+    "payment_type": "Direct Debit",
+    "invoice_due_date": "2025-10-10",
+    "invoice_type": "Broadband",
+    "region": "Sweden",
+    "ocr_number": "OCR202500154321"
+  }
+]
