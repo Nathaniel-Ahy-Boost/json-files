@@ -1,0 +1,181 @@
+{
+  "user": {
+    "id": "USR-123456",
+    "personal_info": {
+      "first_name": "Nathaniel",
+      "last_name": "Ahy",
+      "date_of_birth": "1992-08-15",
+      "contact": {
+        "email": "nathaniel.ahy@example.com",
+        "phone_numbers": [
+          {
+            "type": "mobile",
+            "number": "+46701234567",
+            "verified": true
+          },
+          {
+            "type": "home",
+            "number": "+4689876543",
+            "verified": false
+          }
+        ],
+        "address": {
+          "street": "Skeppsbron 12",
+          "city": "Stockholm",
+          "zip_code": "11130",
+          "country": "Sweden"
+        }
+      }
+    },
+    "subscriptions": [
+      {
+        "subscription_id": "SUB-78901",
+        "type": "mobile",
+        "plan": {
+          "name": "5G Premium Unlimited",
+          "monthly_cost": 499,
+          "features": {
+            "data": "unlimited",
+            "voice_minutes": "unlimited",
+            "sms": "unlimited",
+            "international_roaming": {
+              "included_countries": ["USA", "UK", "Germany", "France"],
+              "extra_cost_per_mb": 1.5
+            }
+          }
+        },
+        "status": "active",
+        "start_date": "2023-05-10",
+        "next_billing_date": "2025-03-10",
+        "devices": [
+          {
+            "device_id": "DEV-456789",
+            "brand": "Apple",
+            "model": "iPhone 15 Pro",
+            "imei": "359876543210987",
+            "status": "active"
+          },
+          {
+            "device_id": "DEV-123123",
+            "brand": "Samsung",
+            "model": "Galaxy S22 Ultra",
+            "imei": "356789432101234",
+            "status": "inactive"
+          }
+        ]
+      },
+      {
+        "subscription_id": "SUB-65432",
+        "type": "broadband",
+        "plan": {
+          "name": "Fiber 1 Gbps",
+          "monthly_cost": 699,
+          "speed": "1 Gbps",
+          "data_limit": "unlimited",
+          "features": {
+            "router_included": true,
+            "static_ip": false,
+            "tv_bundle": {
+              "included_channels": ["HBO", "Netflix", "Disney+"],
+              "extra_channels_available": ["Sports Pack", "Documentary Pack"]
+            }
+          }
+        },
+        "status": "active",
+        "start_date": "2022-09-01",
+        "next_billing_date": "2025-03-01",
+        "devices": [
+          {
+            "device_id": "DEV-789456",
+            "type": "router",
+            "brand": "Netgear",
+            "model": "Nighthawk AX12",
+            "mac_address": "00:1A:2B:3C:4D:5E"
+          }
+        ]
+      }
+    ],
+    "billing": {
+      "payment_method": {
+        "type": "credit_card",
+        "last_four_digits": "5678",
+        "expiry_date": "2027-06"
+      },
+      "invoices": [
+        {
+          "invoice_id": "INV-202501",
+          "date": "2025-02-01",
+          "amount": 1198,
+          "status": "paid",
+          "details": [
+            {
+              "subscription_id": "SUB-78901",
+              "charge": 499,
+              "description": "Mobile Plan - 5G Premium Unlimited"
+            },
+            {
+              "subscription_id": "SUB-65432",
+              "charge": 699,
+              "description": "Fiber 1 Gbps Plan"
+            }
+          ]
+        },
+        {
+          "invoice_id": "INV-202502",
+          "date": "2025-03-01",
+          "amount": 1198,
+          "status": "pending",
+          "details": [
+            {
+              "subscription_id": "SUB-78901",
+              "charge": 499,
+              "description": "Mobile Plan - 5G Premium Unlimited"
+            },
+            {
+              "subscription_id": "SUB-65432",
+              "charge": 699,
+              "description": "Fiber 1 Gbps Plan"
+            }
+          ]
+        }
+      ]
+    },
+    "usage": {
+      "mobile": {
+        "data_used_gb": 45.7,
+        "voice_minutes_used": 890,
+        "sms_sent": 75,
+        "roaming_usage": {
+          "USA": {
+            "data_used_mb": 320,
+            "extra_cost": 480
+          },
+          "UK": {
+            "data_used_mb": 50,
+            "extra_cost": 75
+          }
+        }
+      },
+      "broadband": {
+        "data_used_tb": 2.1,
+        "peak_hours_usage": "70%"
+      }
+    },
+    "support_tickets": [
+      {
+        "ticket_id": "TCK-98765",
+        "opened_date": "2025-01-15",
+        "status": "resolved",
+        "issue": "Slow internet speeds during peak hours",
+        "resolution": "Network optimization applied in the local area."
+      },
+      {
+        "ticket_id": "TCK-54321",
+        "opened_date": "2025-02-05",
+        "status": "open",
+        "issue": "Billing discrepancy in last invoice",
+        "resolution": null
+      }
+    ]
+  }
+}
