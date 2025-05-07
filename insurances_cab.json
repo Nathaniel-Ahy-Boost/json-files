@@ -1,0 +1,38 @@
+{
+  "customer_id": "cus_20485729",
+  "first_name": "Nathaniel",
+  "last_name": "Ahy",
+  "email": "nathaniel.ahy@example.com",
+  "phone": "+46701234567",
+  "insurances": [
+    {
+      "policy_id": "POL-7738291",
+      "policy_name": "AutoPremiumPlusPossibly™",
+      "insurance_type": "auto",
+      "status": "active",
+      "start_date": "2024-06-01",
+      "end_date": "2025-06-01",
+      "monthly_cost": 799,
+      "currency": "SEK",
+      "roadside_assistance": true,
+      "collision_coverage": true,
+      "liability_coverage": true,
+      "glass_coverage": false,
+      "rental_car_coverage": false
+    },
+    {
+      "policy_id": "POL-4456722",
+      "policy_name": "HomeMaybe™",
+      "insurance_type": "home",
+      "status": "inactive",
+      "start_date": "2022-01-01",
+      "end_date": "2023-01-01",
+      "monthly_cost": 549,
+      "currency": "SEK",
+      "fire_coverage": true,
+      "water_damage_coverage": true,
+      "theft_coverage": false,
+      "natural_disaster_coverage": false
+    }
+  ]
+}
