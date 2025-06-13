@@ -1,0 +1,135 @@
+{
+  "invoices": [
+    {
+      "invoice_number": "INV20240801-B",
+      "invoice_amount": 49.99,
+      "bank_giro_number": "BG2025-999",
+      "invoice_status": "Paid",
+      "payment_type": "Credit Card",
+      "invoice_due_date": "2024-08-01",
+      "invoice_type": "Basic Streaming Package",
+      "ocr_number": "OCR202408010049"
+    },
+    {
+      "invoice_number": "INV20240901-B",
+      "invoice_amount": 49.99,
+      "bank_giro_number": "BG2025-999",
+      "invoice_status": "Paid",
+      "payment_type": "Credit Card",
+      "invoice_due_date": "2024-09-01",
+      "invoice_type": "Basic Streaming Package",
+      "ocr_number": "OCR202409010049"
+    },
+    {
+      "invoice_number": "INV20241001-B",
+      "invoice_amount": 49.99,
+      "bank_giro_number": "BG2025-999",
+      "invoice_status": "Paid",
+      "payment_type": "Credit Card",
+      "invoice_due_date": "2024-10-01",
+      "invoice_type": "Basic Streaming Package",
+      "ocr_number": "OCR202410010049"
+    },
+    {
+      "invoice_number": "INV20241101-B",
+      "invoice_amount": 49.99,
+      "bank_giro_number": "BG2025-999",
+      "invoice_status": "Paid",
+      "payment_type": "Credit Card",
+      "invoice_due_date": "2024-11-01",
+      "invoice_type": "Basic Streaming Package",
+      "ocr_number": "OCR202411010049"
+    },
+    {
+      "invoice_number": "INV20241201-B",
+      "invoice_amount": 49.99,
+      "bank_giro_number": "BG2025-999",
+      "invoice_status": "Paid",
+      "payment_type": "Credit Card",
+      "invoice_due_date": "2024-12-01",
+      "invoice_type": "Basic Streaming Package",
+      "ocr_number": "OCR202412010049"
+    },
+    {
+      "invoice_number": "INV20250101-B",
+      "invoice_amount": 49.99,
+      "bank_giro_number": "BG2025-999",
+      "invoice_status": "Paid",
+      "payment_type": "Credit Card",
+      "invoice_due_date": "2025-01-01",
+      "invoice_type": "Basic Streaming Package",
+      "ocr_number": "OCR202501010049"
+    },
+    {
+      "invoice_number": "INV20250201-B",
+      "invoice_amount": 49.99,
+      "bank_giro_number": "BG2025-999",
+      "invoice_status": "Paid",
+      "payment_type": "Credit Card",
+      "invoice_due_date": "2025-02-01",
+      "invoice_type": "Basic Streaming Package",
+      "ocr_number": "OCR202502010049"
+    },
+    {
+      "invoice_number": "INV20250301-B",
+      "invoice_amount": 49.99,
+      "bank_giro_number": "BG2025-999",
+      "invoice_status": "Paid",
+      "payment_type": "Credit Card",
+      "invoice_due_date": "2025-03-01",
+      "invoice_type": "Basic Streaming Package",
+      "ocr_number": "OCR202503010049"
+    },
+    {
+      "invoice_number": "INV20250401-B",
+      "invoice_amount": 49.99,
+      "bank_giro_number": "BG2025-999",
+      "invoice_status": "Paid",
+      "payment_type": "Credit Card",
+      "invoice_due_date": "2025-04-01",
+      "invoice_type": "Basic Streaming Package",
+      "ocr_number": "OCR202504010049"
+    },
+    {
+      "invoice_number": "INV20250501-B",
+      "invoice_amount": 49.99,
+      "bank_giro_number": "BG2025-999",
+      "invoice_status": "Paid",
+      "payment_type": "Credit Card",
+      "invoice_due_date": "2025-05-01",
+      "invoice_type": "Basic Streaming Package",
+      "ocr_number": "OCR202505010049"
+    },
+    {
+      "invoice_number": "INV20250601-B",
+      "invoice_amount": 89.99,
+      "bank_giro_number": "BG2025-999",
+      "invoice_status": "Paid",
+      "payment_type": "Credit Card",
+      "invoice_due_date": "2025-06-01",
+      "invoice_type": "Basic Streaming Package + NBA Finals",
+      "ocr_number": "OCR202506010089",
+      "line_items": [
+        {
+          "item": "Basic Streaming Package (June 2025)",
+          "amount": 49.99
+        },
+        {
+          "item": "NBA Finals – June 15, 2025",
+          "amount": 40.00
+        }
+      ]
+    },
+    {
+      "invoice_number": "INV20250701-B",
+      "invoice_amount": 49.99,
+      "bank_giro_number": "BG2025-999",
+      "invoice_status": "Open",
+      "payment_type": "Paper",
+      "invoice_due_date": "2025-07-01",
+      "invoice_type": "Basic Streaming Package",
+      "ocr_number": "OCR202507010049"
+    }
+  ],
+  "currency": "USD"
+}
