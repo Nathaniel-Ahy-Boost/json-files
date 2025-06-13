@@ -1,0 +1,25 @@
+{
+  "personal_information": {
+    "name": "Jane Doe",
+    "email": "jane.doe@email.com",
+    "phone_number": "+4712345678",
+    "address": "Biskop Gunnerus gate 3, 0155 Oslo, Norway",
+    "customer_number": "98765432"
+  },
+  "subscriptions": [
+    {
+      "subscription_type": "Standard Streaming Package",
+      "start_date": "2024-07-01",
+      "monthly_cost": 59.99,
+      "currency": "USD",
+      "description": "Standard Streaming Package: Includes Netflix, SVT Play, and SkyShowtime in HD quality. Stream on 2 devices simultaneously. Great for casual watchers.",
+      "features": {
+        "Access to Netflix": true,
+        "Access to SVT Play": true,
+        "Access to SkyShowtime": true,
+        "HD Streaming": true,
+        "Simultaneous Devices": "2"
+      }
+    }
+  ]
+}
