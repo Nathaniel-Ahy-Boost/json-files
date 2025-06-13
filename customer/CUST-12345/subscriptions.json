@@ -1,0 +1,25 @@
+{
+  "personal_information": {
+    "name": "Mike Smith",
+    "email": "mike.smith@email.com",
+    "phone_number": "+46701234567",
+    "address": "Vasagatan 12, 11120 Stockholm, Sweden",
+    "customer_number": "12345678"
+  },
+  "subscriptions": [
+    {
+      "subscription_type": "Basic Streaming Package",
+      "start_date": "2024-07-01",
+      "monthly_cost": 49.99,
+      "currency": "USD",
+      "description": "Basic Streaming Package: Includes Netflix and SVT Play in SD quality. Stream on 1 device at a time. Ideal for light watchers.",
+      "features": {
+        "Access to Netflix": true,
+        "Access to SVT Play": true,
+        "Access to SkyShowtime": false,
+        "HD Streaming": false,
+        "Simultaneous Devices": "1"
+      }
+    }
+  ]
+}
