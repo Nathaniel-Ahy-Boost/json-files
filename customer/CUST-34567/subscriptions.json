@@ -1,0 +1,58 @@
+{
+  "personal_information": {
+    "name": "Alex Jensen",
+    "email": "alex.jensen@email.com",
+    "phone_number": "+4540123456",
+    "address": "Vesterbrogade 45, 1620 Copenhagen, Denmark",
+    "customer_number": "45678901"
+  },
+  "subscriptions": [
+    {
+      "subscription_type": "Basic Streaming Package",
+      "start_date": "2025-01-01",
+      "end_date": "2025-03-31",
+      "monthly_cost": 49.99,
+      "currency": "USD",
+      "description": "Basic Streaming Package: Includes Netflix and SVT Play in SD quality. Stream on 1 device at a time. Ideal for light watchers.",
+      "features": {
+        "Access to Netflix": true,
+        "Access to SVT Play": true,
+        "Access to SkyShowtime": false,
+        "HD Streaming": false,
+        "Simultaneous Devices": "1"
+      }
+    },
+    {
+      "subscription_type": "Standard Streaming Package",
+      "start_date": "2025-04-01",
+      "end_date": "2025-04-30",
+      "monthly_cost": 59.99,
+      "currency": "USD",
+      "description": "Standard Streaming Package: Includes Netflix, SVT Play, and SkyShowtime in HD quality. Stream on 2 devices simultaneously. Great for casual watchers.",
+      "features": {
+        "Access to Netflix": true,
+        "Access to SVT Play": true,
+        "Access to SkyShowtime": true,
+        "HD Streaming": true,
+        "Simultaneous Devices": "2"
+      }
+    },
+    {
+      "subscription_type": "Ultimate Streaming Package",
+      "start_date": "2025-05-01",
+      "monthly_cost": 65.50,
+      "currency": "USD",
+      "description": "Ultimate Streaming Package: Includes everything in Standard plus UHD/4K quality, all live sports channels, ad-free viewing, and VIP support. Stream on up to 5 devices simultaneously.",
+      "features": {
+        "Access to Netflix": true,
+        "Access to SVT Play": true,
+        "Access to SkyShowtime": true,
+        "HD Streaming": true,
+        "UHD Streaming": true,
+        "Ad-Free": true,
+        "Simultaneous Devices": "5",
+        "VIP Support": true
+      }
+    }
+  ]
+}
