@@ -1,0 +1,135 @@
+{
+  "invoices": [
+    {
+      "invoice_number": "INV20240801",
+      "invoice_amount": 59.99,
+      "bank_giro_number": "BG2025-456",
+      "invoice_status": "Paid",
+      "payment_type": "Direct Debit",
+      "invoice_due_date": "2024-08-01",
+      "invoice_type": "Standard Streaming Package",
+      "ocr_number": "OCR202408010059"
+    },
+    {
+      "invoice_number": "INV20240901",
+      "invoice_amount": 59.99,
+      "bank_giro_number": "BG2025-456",
+      "invoice_status": "Paid",
+      "payment_type": "Direct Debit",
+      "invoice_due_date": "2024-09-01",
+      "invoice_type": "Standard Streaming Package",
+      "ocr_number": "OCR202409010059"
+    },
+    {
+      "invoice_number": "INV20241001",
+      "invoice_amount": 59.99,
+      "bank_giro_number": "BG2025-456",
+      "invoice_status": "Paid",
+      "payment_type": "Direct Debit",
+      "invoice_due_date": "2024-10-01",
+      "invoice_type": "Standard Streaming Package",
+      "ocr_number": "OCR202410010059"
+    },
+    {
+      "invoice_number": "INV20241101",
+      "invoice_amount": 59.99,
+      "bank_giro_number": "BG2025-456",
+      "invoice_status": "Paid",
+      "payment_type": "Direct Debit",
+      "invoice_due_date": "2024-11-01",
+      "invoice_type": "Standard Streaming Package",
+      "ocr_number": "OCR202411010059"
+    },
+    {
+      "invoice_number": "INV20241201",
+      "invoice_amount": 59.99,
+      "bank_giro_number": "BG2025-456",
+      "invoice_status": "Paid",
+      "payment_type": "Direct Debit",
+      "invoice_due_date": "2024-12-01",
+      "invoice_type": "Standard Streaming Package",
+      "ocr_number": "OCR202412010059"
+    },
+    {
+      "invoice_number": "INV20250101",
+      "invoice_amount": 59.99,
+      "bank_giro_number": "BG2025-456",
+      "invoice_status": "Paid",
+      "payment_type": "Direct Debit",
+      "invoice_due_date": "2025-01-01",
+      "invoice_type": "Standard Streaming Package",
+      "ocr_number": "OCR202501010059"
+    },
+    {
+      "invoice_number": "INV20250201",
+      "invoice_amount": 59.99,
+      "bank_giro_number": "BG2025-456",
+      "invoice_status": "Paid",
+      "payment_type": "Direct Debit",
+      "invoice_due_date": "2025-02-01",
+      "invoice_type": "Standard Streaming Package",
+      "ocr_number": "OCR202502010059"
+    },
+    {
+      "invoice_number": "INV20250301",
+      "invoice_amount": 59.99,
+      "bank_giro_number": "BG2025-456",
+      "invoice_status": "Paid",
+      "payment_type": "Direct Debit",
+      "invoice_due_date": "2025-03-01",
+      "invoice_type": "Standard Streaming Package",
+      "ocr_number": "OCR202503010059"
+    },
+    {
+      "invoice_number": "INV20250401",
+      "invoice_amount": 59.99,
+      "bank_giro_number": "BG2025-456",
+      "invoice_status": "Paid",
+      "payment_type": "Direct Debit",
+      "invoice_due_date": "2025-04-01",
+      "invoice_type": "Standard Streaming Package",
+      "ocr_number": "OCR202504010059"
+    },
+    {
+      "invoice_number": "INV20250501",
+      "invoice_amount": 59.99,
+      "bank_giro_number": "BG2025-456",
+      "invoice_status": "Paid",
+      "payment_type": "Direct Debit",
+      "invoice_due_date": "2025-05-01",
+      "invoice_type": "Standard Streaming Package",
+      "ocr_number": "OCR202505010059"
+    },
+    {
+      "invoice_number": "INV20250601",
+      "invoice_amount": 59.99,
+      "bank_giro_number": "BG2025-456",
+      "invoice_status": "Paid",
+      "payment_type": "Direct Debit",
+      "invoice_due_date": "2025-06-01",
+      "invoice_type": "Standard Streaming Package",
+      "ocr_number": "OCR202506010059"
+    },
+    {
+      "invoice_number": "INV20250701",
+      "invoice_amount": 99.99,
+      "bank_giro_number": "BG2025-456",
+      "invoice_status": "Open",
+      "payment_type": "Paper",
+      "invoice_due_date": "2025-07-01",
+      "invoice_type": "Standard Streaming Package + UEFA Champions League Final",
+      "ocr_number": "OCR202507010099",
+      "line_items": [
+        {
+          "item": "Standard Streaming Package (July 2025)",
+          "amount": 59.99
+        },
+        {
+          "item": "UEFA Champions League Final – May 31, 2025",
+          "amount": 40.0
+        }
+      ]
+    }
+  ],
+  "currency": "USD"
+}
