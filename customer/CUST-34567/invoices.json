@@ -1,0 +1,75 @@
+{
+  "invoices": [
+    {
+      "invoice_number": "INV20250101-U",
+      "invoice_amount": 49.99,
+      "bank_giro_number": "BG2025-123",
+      "invoice_status": "Paid",
+      "payment_type": "Direct Debit",
+      "invoice_due_date": "2025-01-01",
+      "invoice_type": "Basic Streaming Package",
+      "ocr_number": "OCR202501010049"
+    },
+    {
+      "invoice_number": "INV20250201-U",
+      "invoice_amount": 49.99,
+      "bank_giro_number": "BG2025-123",
+      "invoice_status": "Paid",
+      "payment_type": "Direct Debit",
+      "invoice_due_date": "2025-02-01",
+      "invoice_type": "Basic Streaming Package",
+      "ocr_number": "OCR202502010049"
+    },
+    {
+      "invoice_number": "INV20250301-U",
+      "invoice_amount": 59.99,
+      "bank_giro_number": "BG2025-123",
+      "invoice_status": "Paid",
+      "payment_type": "Direct Debit",
+      "invoice_due_date": "2025-03-01",
+      "invoice_type": "Standard Streaming Package",
+      "ocr_number": "OCR202503010059"
+    },
+    {
+      "invoice_number": "INV20250401-U",
+      "invoice_amount": 59.99,
+      "bank_giro_number": "BG2025-123",
+      "invoice_status": "Paid",
+      "payment_type": "Direct Debit",
+      "invoice_due_date": "2025-04-01",
+      "invoice_type": "Standard Streaming Package",
+      "ocr_number": "OCR202504010059"
+    },
+    {
+      "invoice_number": "INV20250501-U",
+      "invoice_amount": 65.50,
+      "bank_giro_number": "BG2025-123",
+      "invoice_status": "Paid",
+      "payment_type": "Credit Card",
+      "invoice_due_date": "2025-05-01",
+      "invoice_type": "Ultimate Streaming Package",
+      "ocr_number": "OCR202505010065"
+    },
+    {
+      "invoice_number": "INV20250601-U",
+      "invoice_amount": 65.50,
+      "bank_giro_number": "BG2025-123",
+      "invoice_status": "Paid",
+      "payment_type": "Credit Card",
+      "invoice_due_date": "2025-06-01",
+      "invoice_type": "Ultimate Streaming Package",
+      "ocr_number": "OCR202506010065"
+    },
+    {
+      "invoice_number": "INV20250701-U",
+      "invoice_amount": 65.50,
+      "bank_giro_number": "BG2025-123",
+      "invoice_status": "Open",
+      "payment_type": "Credit Card",
+      "invoice_due_date": "2025-07-01",
+      "invoice_type": "Ultimate Streaming Package",
+      "ocr_number": "OCR202507010065"
+    }
+  ],
+  "currency": "USD"
+}
