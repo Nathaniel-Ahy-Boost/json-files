@@ -1,0 +1,19 @@
+{
+  "status": "success",
+  "data": {
+    "customer": {
+      "customerId": "CUST-98765",
+      "sppNumber": "SPP-987654",
+      "fullName": "Ana Novak",
+      "davcnaStevilka": "SI12345678",
+      "email": "ana.novak@primer.si",
+      "address": {
+        "street": "Ljubljanska cesta 10",
+        "city": "Ljubljana",
+        "postalCode": "1000",
+        "country": "Slovenija"
+      },
+      "lastUpdated": "2025-09-02T10:00:00Z"
+    }
+  }
+}
