@@ -1,0 +1,12 @@
+{
+  "customer": {
+    "customer_id": "cus_9f3b2c7a1d",
+    "customer_number": "12345678",
+    "status": "active",
+    "created_at": "2023-05-01T00:00:00.000Z"
+  },
+  "lookup": {
+    "by": "email",
+    "value": "nathaniel.ahy@yahoo.com"
+  }
+}
