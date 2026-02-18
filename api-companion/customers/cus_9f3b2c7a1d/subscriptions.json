@@ -1,0 +1,47 @@
+{
+  "customer_id": "cus_9f3b2c7a1d",
+  "personal_information": {
+    "name": "Nathaniel Ahy",
+    "email": "nathaniel.ahy@yahoo.com",
+    "phone_number": "+1234567890",
+    "address": "Railroad Avenue 48, 123 45, Stockholm",
+    "customer_number": "12345678"
+  },
+  "subscriptions": [
+    {
+      "subscription_id": "sub_streaming_ultimate_0001",
+      "subscription_type": "Ultimate Streaming Package",
+      "start_date": "2026-01-15",
+      "monthly_cost": 99.99,
+      "currency": "USD",
+      "description": "Ultimate Streaming Package: The most all-encompassing package, including access to HBO Max, Netflix, SVT Play, Viaplay Total, and SkyShowtime, offering over 70 channels.",
+      "features": {
+        "Access to HBO Max": true,
+        "Access to Netflix": true,
+        "Access to SVT Play": true,
+        "Access to Viaplay Total": true,
+        "Access to SkyShowtime": true,
+        "Number of channels": "70+"
+      },
+      "status": "active",
+      "billing_day_of_month": 15
+    },
+    {
+      "subscription_id": "sub_broadband_unlimited_0001",
+      "subscription_type": "Broadband Unlimited",
+      "start_date": "2023-05-01",
+      "monthly_cost": 50,
+      "currency": "USD",
+      "description": "Get fast and reliable internet with our Broadband subscription.",
+      "features": {
+        "Unlimited surf": true
+      },
+      "surf_usage": {
+        "total": "Unlimited",
+        "remaining": "Unlimited"
+      },
+      "status": "active",
+      "billing_day_of_month": 1
+    }
+  ]
+}
