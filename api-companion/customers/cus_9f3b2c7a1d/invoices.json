@@ -1,0 +1,72 @@
+{
+  "customer_id": "cus_9f3b2c7a1d",
+  "currency": "USD",
+  "invoices": [
+    {
+      "invoice_id": "inv_202601_0001",
+      "invoice_number": "INV2026001",
+      "invoice_amount": 150,
+      "bank_giro_number": "BG2024-123",
+      "invoice_status": "Open",
+      "payment_type": "Paper",
+      "invoice_due_date": "2026-01-31T12:00:00.000Z",
+      "invoice_type": "Ultimate Streaming Package",
+      "ocr_number": "OCR202600123456"
+    },
+    {
+      "invoice_id": "inv_202602_0001",
+      "invoice_number": "INV2026002",
+      "invoice_amount": 50,
+      "bank_giro_number": "BG2024-123",
+      "invoice_status": "Open",
+      "payment_type": "Direct Debit",
+      "invoice_due_date": "2026-02-28T12:00:00.000Z",
+      "invoice_type": "Broadband Unlimited",
+      "ocr_number": "OCR202600223456"
+    },
+    {
+      "invoice_id": "inv_202512_0001",
+      "invoice_number": "INV2025001",
+      "invoice_amount": 50,
+      "bank_giro_number": "BG2024-123",
+      "invoice_status": "Paid",
+      "payment_type": "Direct Debit",
+      "invoice_due_date": "2025-12-31T12:00:00.000Z",
+      "invoice_type": "Broadband Unlimited",
+      "ocr_number": "OCR202500112233"
+    },
+    {
+      "invoice_id": "inv_202511_0001",
+      "invoice_number": "INV2025002",
+      "invoice_amount": 50,
+      "bank_giro_number": "BG2024-123",
+      "invoice_status": "Paid",
+      "payment_type": "Direct Debit",
+      "invoice_due_date": "2025-11-30T12:00:00.000Z",
+      "invoice_type": "Broadband Unlimited",
+      "ocr_number": "OCR202500212244"
+    },
+    {
+      "invoice_id": "inv_202510_0001",
+      "invoice_number": "INV2025003",
+      "invoice_amount": 50,
+      "bank_giro_number": "BG2024-123",
+      "invoice_status": "Paid",
+      "payment_type": "Direct Debit",
+      "invoice_due_date": "2025-10-31T12:00:00.000Z",
+      "invoice_type": "Broadband Unlimited",
+      "ocr_number": "OCR202500312255"
+    },
+    {
+      "invoice_id": "inv_202509_0001",
+      "invoice_number": "INV2025004",
+      "invoice_amount": 50,
+      "bank_giro_number": "BG2024-123",
+      "invoice_status": "Paid",
+      "payment_type": "Direct Debit",
+      "invoice_due_date": "2025-09-30T12:00:00.000Z",
+      "invoice_type": "Broadband Unlimited",
+      "ocr_number": "OCR202500412266"
+    }
+  ]
+}
