@@ -1,0 +1,52 @@
+{
+  "subscriptions": [
+    {
+      "subscription_id": "SUB-88219044",
+      "status": "Active",
+      "phone_number": "+1 (555) 012-3456",
+      "plan_name": "NovaLink Ultra Fiber + Mobile Bundle",
+      "activation_date": "2024-11-15",
+      "sim_details": {
+        "iccid": "8901410327866532101F",
+        "pin": "4492",
+        "puk": "88120347",
+        "e_sim_capable": true
+      },
+      "data_usage": {
+        "total_allowance": "Unlimited",
+        "current_month_surf": "42.8 GB",
+        "hotspot_limit": "20 GB",
+        "hotspot_used": "5.2 GB",
+        "roaming_data_balance": "5.0 GB"
+      },
+      "hardware": {
+        "device_model": "Titanium Phone 15 Pro",
+        "imei": "35-982106-123456-7",
+        "warranty_expiry": "2026-11-15"
+      },
+      "features": [
+        "5G Ultra Wideband",
+        "Visual Voicemail",
+        "HD Video Streaming",
+        "NovaLink Music Premium"
+      ]
+    },
+    {
+      "subscription_id": "SUB-99401233",
+      "status": "Active",
+      "phone_number": "N/A - Data Only",
+      "plan_name": "NovaLink Home Fiber 1Gbps",
+      "activation_date": "2024-11-15",
+      "data_usage": {
+        "total_allowance": "Unlimited",
+        "current_month_surf": "845.2 GB",
+        "peak_download_speed": "940 Mbps"
+      },
+      "hardware": {
+        "modem_model": "NovaHub Gateway v3",
+        "serial_number": "NH-772910-X",
+        "mac_address": "00:1A:2B:3C:4D:5E"
+      }
+    }
+  ]
+}
