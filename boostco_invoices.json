@@ -1,0 +1,65 @@
+{
+  "invoices": [
+    {
+      "invoice_number": "INV20260101",
+      "invoice_amount": 64.99,
+      "bank_giro_number": "BG2026-888",
+      "invoice_status": "Paid",
+      "payment_type": "Direct Debit",
+      "invoice_due_date": "2026-01-01",
+      "invoice_type": "NovaLink Ultra Fiber + Mobile",
+      "ocr_number": "OCR202601010064"
+    },
+    {
+      "invoice_number": "INV20260201",
+      "invoice_amount": 64.99,
+      "bank_giro_number": "BG2026-888",
+      "invoice_status": "Paid",
+      "payment_type": "Direct Debit",
+      "invoice_due_date": "2026-02-01",
+      "invoice_type": "NovaLink Ultra Fiber + Mobile",
+      "ocr_number": "OCR202602010064"
+    },
+    {
+      "invoice_number": "INV20260301",
+      "invoice_amount": 64.99,
+      "bank_giro_number": "BG2026-888",
+      "invoice_status": "Paid",
+      "payment_type": "Direct Debit",
+      "invoice_due_date": "2026-03-01",
+      "invoice_type": "NovaLink Ultra Fiber + Mobile",
+      "ocr_number": "OCR202603010064"
+    },
+    {
+      "invoice_number": "INV20260401",
+      "invoice_amount": 89.99,
+      "bank_giro_number": "BG2026-888",
+      "invoice_status": "Paid",
+      "payment_type": "Direct Debit",
+      "invoice_due_date": "2026-04-01",
+      "invoice_type": "NovaLink Ultra Fiber + Mobile + Roaming Pack",
+      "ocr_number": "OCR202604010089"
+    },
+    {
+      "invoice_number": "INV20260528",
+      "invoice_amount": 114.98,
+      "bank_giro_number": "BG2026-888",
+      "invoice_status": "Open",
+      "payment_type": "Paper",
+      "invoice_due_date": "2026-05-28",
+      "invoice_type": "NovaLink Ultra Fiber + Mobile + Pay-Per-View Event",
+      "ocr_number": "OCR202605280114",
+      "line_items": [
+        {
+          "item": "NovaLink Ultra Fiber + Mobile (May 2026)",
+          "amount": 64.99
+        },
+        {
+          "item": "Global Tech Summit 2026 - Digital Access Pass",
+          "amount": 49.99
+        }
+      ]
+    }
+  ],
+  "currency": "USD"
+}
