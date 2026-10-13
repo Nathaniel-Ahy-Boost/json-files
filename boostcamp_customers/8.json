@@ -1,0 +1,25 @@
+{
+  "customerId": 8,
+  "personalInfo": {
+    "name": "Frank Blue",
+    "email": "frank.blue@example.com",
+    "phoneNumber": "+12345678908",
+    "address": "852 Willow Street",
+    "city": "Bludhaven",
+    "zipCode": "55667"
+  },
+  "accountInfo": {
+    "balance": 25.5,
+    "activation_status": 1,
+    "paymentMethod": "DEBIT_CARD",
+    "cardDetails": "**** **** **** 6789"
+  },
+  "connectionPoints": [
+    {
+      "location": "852 Willow Street, Bludhaven 55667",
+      "subscribedPackages": [
+        "TV"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "customerId": 7,
+  "personalInfo": {
+    "name": "Eve Black",
+    "email": "eve.black@example.com",
+    "phoneNumber": "+12345678907",
+    "address": "159 Spruce Road",
+    "city": "Coast City",
+    "zipCode": "44556"
+  },
+  "accountInfo": {
+    "balance": 300,
+    "activation_status": 0,
+    "paymentMethod": "DEBIT_CARD",
+    "cardDetails": "**** **** **** 5678"
+  },
+  "connectionPoints": [
+    {
+      "location": "300 Harbor Tower, Coast City 44557",
+      "subscribedPackages": [
+        "Internet",
+        "Phone"
+      ]
+    }
+  ]
+}

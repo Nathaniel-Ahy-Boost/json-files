@@ -1,27 +1,34 @@
 {
-      customerId: 1,
-      personalInfo: {
-        name: "John Doe",
-        email: "john.doe@example.com",
-        phoneNumber: "+12345678901",
-        address: "123 Maple Street",
-        city: "Springfield",
-        zipCode: "12345"
-      },
-      accountInfo: {
-        balance: 100.0,
-        activation_status: 0,
-        paymentMethod: "CREDIT_CARD",
-        cardDetails: "**** **** **** 1234"
-      },
-      connectionPoints: [
-        {
-          location: "123 Maple Street, Springfield 12345",
-          subscribedPackages: ["Internet", "TV", "Phone"]
-        },
-        {
-          location: "456 Corporate Plaza, Springfield 12346",
-          subscribedPackages: ["Internet", "TV"]
-        }
+  "customerId": 1,
+  "personalInfo": {
+    "name": "John Doe",
+    "email": "john.doe@example.com",
+    "phoneNumber": "+12345678901",
+    "address": "123 Maple Street",
+    "city": "Springfield",
+    "zipCode": "12345"
+  },
+  "accountInfo": {
+    "balance": 100,
+    "activation_status": 0,
+    "paymentMethod": "CREDIT_CARD",
+    "cardDetails": "**** **** **** 1234"
+  },
+  "connectionPoints": [
+    {
+      "location": "123 Maple Street, Springfield 12345",
+      "subscribedPackages": [
+        "Internet",
+        "TV",
+        "Phone"
+      ]
+    },
+    {
+      "location": "456 Corporate Plaza, Springfield 12346",
+      "subscribedPackages": [
+        "Internet",
+        "TV"
       ]
     }
+  ]
+}

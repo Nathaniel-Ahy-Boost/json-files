@@ -1,0 +1,26 @@
+{
+  "customerId": 10,
+  "personalInfo": {
+    "name": "Helen Gray",
+    "email": "helen.gray@example.com",
+    "phoneNumber": "+12345678910",
+    "address": "951 Aspen Park",
+    "city": "Neo Tokyo",
+    "zipCode": "77889"
+  },
+  "accountInfo": {
+    "balance": 75,
+    "activation_status": 0,
+    "paymentMethod": "CREDIT_CARD",
+    "cardDetails": "**** **** **** 8901"
+  },
+  "connectionPoints": [
+    {
+      "location": "951 Aspen Park, Neo Tokyo 77889",
+      "subscribedPackages": [
+        "Internet",
+        "Phone"
+      ]
+    }
+  ]
+}

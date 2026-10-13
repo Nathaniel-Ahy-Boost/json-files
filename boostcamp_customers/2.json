@@ -1,0 +1,26 @@
+{
+  "customerId": 2,
+  "personalInfo": {
+    "name": "Jane Smith",
+    "email": "jane.smith@example.com",
+    "phoneNumber": "+12345678902",
+    "address": "456 Elm Street",
+    "city": "Metropolis",
+    "zipCode": "54321"
+  },
+  "accountInfo": {
+    "balance": 50.5,
+    "activation_status": 1,
+    "paymentMethod": "DEBIT_CARD",
+    "cardDetails": "**** **** **** 2345"
+  },
+  "connectionPoints": [
+    {
+      "location": "456 Elm Street, Metropolis 54321",
+      "subscribedPackages": [
+        "Internet",
+        "Phone"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "customerId": 9,
+  "personalInfo": {
+    "name": "Grace Gold",
+    "email": "grace.gold@example.com",
+    "phoneNumber": "+12345678909",
+    "address": "753 Palm Lane",
+    "city": "Emerald City",
+    "zipCode": "66778"
+  },
+  "accountInfo": {
+    "balance": 60,
+    "activation_status": 2,
+    "paymentMethod": "CREDIT_CARD",
+    "cardDetails": "**** **** **** 7890"
+  },
+  "connectionPoints": [
+    {
+      "location": "120 Finance District, Emerald City 66779",
+      "subscribedPackages": [
+        "Internet",
+        "TV",
+        "Phone"
+      ]
+    }
+  ]
+}

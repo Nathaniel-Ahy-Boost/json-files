@@ -1,0 +1,26 @@
+{
+  "customerId": 4,
+  "personalInfo": {
+    "name": "Bob Brown",
+    "email": "bob.brown@example.com",
+    "phoneNumber": "+12345678904",
+    "address": "321 Pine Lane",
+    "city": "Star City",
+    "zipCode": "98765"
+  },
+  "accountInfo": {
+    "balance": 200,
+    "activation_status": 0,
+    "paymentMethod": "CREDIT_CARD",
+    "cardDetails": "**** **** **** 3456"
+  },
+  "connectionPoints": [
+    {
+      "location": "789 Business Center, Star City 98766",
+      "subscribedPackages": [
+        "Internet",
+        "TV"
+      ]
+    }
+  ]
+}

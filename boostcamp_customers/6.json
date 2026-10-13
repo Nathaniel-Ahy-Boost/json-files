@@ -1,0 +1,25 @@
+{
+  "customerId": 6,
+  "personalInfo": {
+    "name": "Dana Green",
+    "email": "dana.green@example.com",
+    "phoneNumber": "+12345678906",
+    "address": "987 Cedar Court",
+    "city": "Smallville",
+    "zipCode": "33444"
+  },
+  "accountInfo": {
+    "balance": 0,
+    "activation_status": 3,
+    "paymentMethod": "NONE",
+    "cardDetails": null
+  },
+  "connectionPoints": [
+    {
+      "location": "987 Cedar Court, Smallville 33444",
+      "subscribedPackages": [
+        "Internet"
+      ]
+    }
+  ]
+}

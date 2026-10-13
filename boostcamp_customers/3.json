@@ -1,0 +1,25 @@
+{
+  "customerId": 3,
+  "personalInfo": {
+    "name": "Alice Johnson",
+    "email": "alice.johnson@example.com",
+    "phoneNumber": "+12345678903",
+    "address": "789 Oak Avenue",
+    "city": "Gotham",
+    "zipCode": "67890"
+  },
+  "accountInfo": {
+    "balance": 0,
+    "activation_status": 2,
+    "paymentMethod": "NONE",
+    "cardDetails": null
+  },
+  "connectionPoints": [
+    {
+      "location": "789 Oak Avenue, Gotham 67890",
+      "subscribedPackages": [
+        "Internet"
+      ]
+    }
+  ]
+}
