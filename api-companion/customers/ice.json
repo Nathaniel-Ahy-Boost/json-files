@@ -1,0 +1,193 @@
+{
+  "user": {
+    "id": "USR-123456",
+    "personal_info": {
+      "first_name": "Anders",
+      "last_name": "Austad",
+      "date_of_birth": "1990-05-14",
+      "contact": {
+        "email": "anders.austad@example.no",
+        "phone_numbers": [
+          {
+            "type": "mobile",
+            "number": "+4748123456",
+            "verified": true
+          },
+          {
+            "type": "home",
+            "number": "+4722123456",
+            "verified": false
+          }
+        ],
+        "address": {
+          "street": "Nydalsveien 28",
+          "city": "Oslo",
+          "zip_code": "0484",
+          "country": "Norway"
+        }
+      }
+    },
+    "subscriptions": [
+      {
+        "subscription_id": "SUB-78901",
+        "type": "mobile",
+        "plan": {
+          "name": "iceMax",
+          "monthly_cost": 399,
+          "currency": "NOK",
+          "features": {
+            "data": "unlimited",
+            "fair_use_threshold": "100 GB at full 5G speed (up to 200 Mbit/s), then 3 Mbit/s",
+            "voice_minutes": "unlimited",
+            "sms_mms": "unlimited",
+            "data_sharing_gb": 10,
+            "eu_eea_roaming": {
+              "included": true,
+              "eu_data_allowance_gb": 60
+            },
+            "network": "ice+ with national roaming backup"
+          }
+        },
+        "status": "active",
+        "start_date": "2023-05-10",
+        "next_billing_date": "2025-03-10",
+        "devices": [
+          {
+            "device_id": "DEV-456789",
+            "brand": "Apple",
+            "model": "iPhone 15 Pro",
+            "imei": "359876543210987",
+            "sim_type": "eSIM",
+            "status": "active"
+          },
+          {
+            "device_id": "DEV-123123",
+            "brand": "Samsung",
+            "model": "Galaxy S22 Ultra",
+            "imei": "356789432101234",
+            "sim_type": "physical_sim",
+            "status": "inactive"
+          }
+        ]
+      },
+      {
+        "subscription_id": "SUB-65432",
+        "type": "mobile_broadband",
+        "plan": {
+          "name": "ice Mobilt Bredbånd 200 GB",
+          "monthly_cost": 699,
+          "currency": "NOK",
+          "data_limit": "200 GB",
+          "features": {
+            "data_rollover": true,
+            "dvale_mode_available": true,
+            "router_included": true,
+            "static_ip": false,
+            "network": "ice+ 4G/5G"
+          }
+        },
+        "status": "active",
+        "start_date": "2022-09-01",
+        "next_billing_date": "2025-03-01",
+        "devices": [
+          {
+            "device_id": "DEV-789456",
+            "type": "router",
+            "brand": "Nokia",
+            "model": "FastMile 5G Gateway 2",
+            "mac_address": "00:1A:2B:3C:4D:5E"
+          }
+        ]
+      }
+    ],
+    "billing": {
+      "payment_method": {
+        "type": "eFaktura / AvtaleGiro",
+        "provider": "Vipps / BankAxept",
+        "account_mask": "•••• 5678"
+      },
+      "invoices": [
+        {
+          "invoice_id": "INV-202501",
+          "date": "2025-02-01",
+          "amount": 1098,
+          "currency": "NOK",
+          "status": "paid",
+          "details": [
+            {
+              "subscription_id": "SUB-78901",
+              "charge": 399,
+              "description": "Mobilabonnement - iceMax (Ubegrenset data)"
+            },
+            {
+              "subscription_id": "SUB-65432",
+              "charge": 699,
+              "description": "Mobilt Bredbånd 200 GB"
+            }
+          ]
+        },
+        {
+          "invoice_id": "INV-202502",
+          "date": "2025-03-01",
+          "amount": 1098,
+          "currency": "NOK",
+          "status": "pending",
+          "details": [
+            {
+              "subscription_id": "SUB-78901",
+              "charge": 399,
+              "description": "Mobilabonnement - iceMax (Ubegrenset data)"
+            },
+            {
+              "subscription_id": "SUB-65432",
+              "charge": 699,
+              "description": "Mobilt Bredbånd 200 GB"
+            }
+          ]
+        }
+      ]
+    },
+    "usage": {
+      "mobile": {
+        "data_used_gb": 45.7,
+        "voice_minutes_used": 890,
+        "sms_sent": 75,
+        "roaming_usage": {
+          "Sweden": {
+            "zone": "EU/EEA",
+            "data_used_mb": 1420,
+            "extra_cost": 0,
+            "notes": "Covered by 60 GB EU/EEA inclusion"
+          },
+          "USA": {
+            "zone": "Rest of World",
+            "data_used_mb": 320,
+            "package_purchased": "Datapakke Utland 1 GB",
+            "extra_cost": 199
+          }
+        }
+      },
+      "broadband": {
+        "data_used_gb": 128.4,
+        "rollover_data_available_gb": 55.0,
+        "network_connected": "ice+ 5G"
+      }
+    },
+    "support_tickets": [
+      {
+        "ticket_id": "TCK-98765",
+        "opened_date": "2025-01-15",
+        "status": "resolved",
+        "issue": "Weak indoor 5G signal on Nokia FastMile Gateway at cabin",
+        "resolution": "Advised placement near window facing the local ice+ base station; signal restored to 4 bars."
+      },
+      {
+        "ticket_id": "TCK-54321",
+        "opened_date": "2025-02-05",
+        "status": "open",
+        "issue": "Confirmation regarding Datapakke Utland activation in ice-appen",
+        "resolution": null
+      }
+    ]
+  }
+}
